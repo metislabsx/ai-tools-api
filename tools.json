@@ -14,13 +14,41 @@
       "billing_cycle": "monthly",
       "details": "Free tier with GPT-3.5, Plus at $20/mo for GPT-4"
     },
-    "features": ["Text generation", "Code assistance", "Image analysis", "File uploads", "Web browsing", "DALL-E integration", "Custom GPTs"],
-    "pros": ["Most widely used AI assistant", "Excellent at general tasks", "Strong plugin ecosystem", "Regular updates"],
-    "cons": ["Can hallucinate facts", "Knowledge cutoff", "Usage limits on free tier"],
-    "best_for": ["General productivity", "Content writing", "Coding help", "Learning"],
+    "features": [
+      "Text generation",
+      "Code assistance",
+      "Image analysis",
+      "File uploads",
+      "Web browsing",
+      "DALL-E integration",
+      "Custom GPTs"
+    ],
+    "pros": [
+      "Most widely used AI assistant",
+      "Excellent at general tasks",
+      "Strong plugin ecosystem",
+      "Regular updates"
+    ],
+    "cons": [
+      "Can hallucinate facts",
+      "Knowledge cutoff",
+      "Usage limits on free tier"
+    ],
+    "best_for": [
+      "General productivity",
+      "Content writing",
+      "Coding help",
+      "Learning"
+    ],
     "rating": 4.5,
     "popularity_score": 98,
-    "tags": ["chatbot", "gpt-4", "openai", "writing", "coding"],
+    "tags": [
+      "chatbot",
+      "gpt-4",
+      "openai",
+      "writing",
+      "coding"
+    ],
     "api_available": true,
     "launched": "2022-11-30"
   },
@@ -39,13 +67,39 @@
       "billing_cycle": "monthly",
       "details": "Free tier available, Pro at $20/mo"
     },
-    "features": ["200K context window", "Document analysis", "Code generation", "Artifacts", "Projects", "Computer use"],
-    "pros": ["Excellent reasoning", "Very long context", "Less hallucination", "Strong at coding"],
-    "cons": ["Smaller ecosystem than ChatGPT", "More cautious responses"],
-    "best_for": ["Long document analysis", "Coding", "Research", "Complex reasoning"],
+    "features": [
+      "200K context window",
+      "Document analysis",
+      "Code generation",
+      "Artifacts",
+      "Projects",
+      "Computer use"
+    ],
+    "pros": [
+      "Excellent reasoning",
+      "Very long context",
+      "Less hallucination",
+      "Strong at coding"
+    ],
+    "cons": [
+      "Smaller ecosystem than ChatGPT",
+      "More cautious responses"
+    ],
+    "best_for": [
+      "Long document analysis",
+      "Coding",
+      "Research",
+      "Complex reasoning"
+    ],
     "rating": 4.6,
     "popularity_score": 85,
-    "tags": ["chatbot", "anthropic", "claude", "coding", "research"],
+    "tags": [
+      "chatbot",
+      "anthropic",
+      "claude",
+      "coding",
+      "research"
+    ],
     "api_available": true,
     "launched": "2023-03-14"
   },
@@ -64,13 +118,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Advanced at $19.99/mo with Google One"
     },
-    "features": ["Multimodal understanding", "Google integration", "Real-time info", "Code generation", "Image generation"],
-    "pros": ["Google ecosystem integration", "Real-time web access", "Strong multimodal"],
-    "cons": ["Quality inconsistent", "Privacy concerns"],
-    "best_for": ["Google users", "Research", "Multimodal tasks"],
+    "features": [
+      "Multimodal understanding",
+      "Google integration",
+      "Real-time info",
+      "Code generation",
+      "Image generation"
+    ],
+    "pros": [
+      "Google ecosystem integration",
+      "Real-time web access",
+      "Strong multimodal"
+    ],
+    "cons": [
+      "Quality inconsistent",
+      "Privacy concerns"
+    ],
+    "best_for": [
+      "Google users",
+      "Research",
+      "Multimodal tasks"
+    ],
     "rating": 4.2,
     "popularity_score": 75,
-    "tags": ["google", "chatbot", "multimodal", "bard"],
+    "tags": [
+      "google",
+      "chatbot",
+      "multimodal",
+      "bard"
+    ],
     "api_available": true,
     "launched": "2023-12-06"
   },
@@ -89,13 +165,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier available, Pro at $20/mo"
     },
-    "features": ["Real-time search", "Source citations", "Follow-up questions", "File analysis", "Focus modes"],
-    "pros": ["Always up-to-date", "Shows sources", "Great for research"],
-    "cons": ["Less creative than ChatGPT", "Limited in non-search tasks"],
-    "best_for": ["Research", "Fact-checking", "Current events"],
+    "features": [
+      "Real-time search",
+      "Source citations",
+      "Follow-up questions",
+      "File analysis",
+      "Focus modes"
+    ],
+    "pros": [
+      "Always up-to-date",
+      "Shows sources",
+      "Great for research"
+    ],
+    "cons": [
+      "Less creative than ChatGPT",
+      "Limited in non-search tasks"
+    ],
+    "best_for": [
+      "Research",
+      "Fact-checking",
+      "Current events"
+    ],
     "rating": 4.4,
     "popularity_score": 72,
-    "tags": ["search", "research", "citations", "real-time"],
+    "tags": [
+      "search",
+      "research",
+      "citations",
+      "real-time"
+    ],
     "api_available": true,
     "launched": "2022-12-01"
   },
@@ -114,13 +212,34 @@
       "billing_cycle": "monthly",
       "details": "Free chat, API usage-based pricing"
     },
-    "features": ["Open-weight models", "API access", "Multiple model sizes", "Function calling"],
-    "pros": ["Open models", "European data privacy", "Efficient"],
-    "cons": ["Smaller ecosystem", "Less polished interface"],
-    "best_for": ["Developers", "Self-hosting", "Privacy-conscious users"],
+    "features": [
+      "Open-weight models",
+      "API access",
+      "Multiple model sizes",
+      "Function calling"
+    ],
+    "pros": [
+      "Open models",
+      "European data privacy",
+      "Efficient"
+    ],
+    "cons": [
+      "Smaller ecosystem",
+      "Less polished interface"
+    ],
+    "best_for": [
+      "Developers",
+      "Self-hosting",
+      "Privacy-conscious users"
+    ],
     "rating": 4.3,
     "popularity_score": 65,
-    "tags": ["open-source", "european", "api", "llm"],
+    "tags": [
+      "open-source",
+      "european",
+      "api",
+      "llm"
+    ],
     "api_available": true,
     "launched": "2023-09-27"
   },
@@ -139,13 +258,35 @@
       "billing_cycle": "one-time",
       "details": "Free open-source model, hosting costs apply"
     },
-    "features": ["Open-source", "Multiple sizes", "Self-hosting", "Fine-tuning", "Commercial use allowed"],
-    "pros": ["Completely free", "Full control", "Customizable"],
-    "cons": ["Requires technical setup", "No hosted interface from Meta"],
-    "best_for": ["Developers", "Researchers", "Self-hosting"],
+    "features": [
+      "Open-source",
+      "Multiple sizes",
+      "Self-hosting",
+      "Fine-tuning",
+      "Commercial use allowed"
+    ],
+    "pros": [
+      "Completely free",
+      "Full control",
+      "Customizable"
+    ],
+    "cons": [
+      "Requires technical setup",
+      "No hosted interface from Meta"
+    ],
+    "best_for": [
+      "Developers",
+      "Researchers",
+      "Self-hosting"
+    ],
     "rating": 4.4,
     "popularity_score": 70,
-    "tags": ["open-source", "meta", "self-hosted", "llm"],
+    "tags": [
+      "open-source",
+      "meta",
+      "self-hosted",
+      "llm"
+    ],
     "api_available": false,
     "launched": "2023-07-18"
   },
@@ -164,13 +305,36 @@
       "billing_cycle": "monthly",
       "details": "Creator at $39/mo, Pro at $59/mo"
     },
-    "features": ["Marketing templates", "Brand voice", "Campaign workflows", "Chrome extension", "Team collaboration"],
-    "pros": ["Marketing-focused", "Good templates", "Brand consistency"],
-    "cons": ["Expensive", "No free tier", "Quality varies"],
-    "best_for": ["Marketing teams", "Content marketers", "Agencies"],
+    "features": [
+      "Marketing templates",
+      "Brand voice",
+      "Campaign workflows",
+      "Chrome extension",
+      "Team collaboration"
+    ],
+    "pros": [
+      "Marketing-focused",
+      "Good templates",
+      "Brand consistency"
+    ],
+    "cons": [
+      "Expensive",
+      "No free tier",
+      "Quality varies"
+    ],
+    "best_for": [
+      "Marketing teams",
+      "Content marketers",
+      "Agencies"
+    ],
     "rating": 4.1,
     "popularity_score": 60,
-    "tags": ["writing", "marketing", "content", "copywriting"],
+    "tags": [
+      "writing",
+      "marketing",
+      "content",
+      "copywriting"
+    ],
     "api_available": true,
     "launched": "2021-01-01"
   },
@@ -189,13 +353,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier with limits, Pro at $36/mo"
     },
-    "features": ["90+ templates", "Brand voice", "Workflows", "Chat interface", "Blog wizard"],
-    "pros": ["Free tier available", "Good for short copy", "Easy to use"],
-    "cons": ["Output can be generic", "Limited long-form"],
-    "best_for": ["Social media managers", "Small businesses", "Quick copy needs"],
-    "rating": 4.0,
+    "features": [
+      "90+ templates",
+      "Brand voice",
+      "Workflows",
+      "Chat interface",
+      "Blog wizard"
+    ],
+    "pros": [
+      "Free tier available",
+      "Good for short copy",
+      "Easy to use"
+    ],
+    "cons": [
+      "Output can be generic",
+      "Limited long-form"
+    ],
+    "best_for": [
+      "Social media managers",
+      "Small businesses",
+      "Quick copy needs"
+    ],
+    "rating": 4,
     "popularity_score": 55,
-    "tags": ["writing", "copywriting", "social-media", "marketing"],
+    "tags": [
+      "writing",
+      "copywriting",
+      "social-media",
+      "marketing"
+    ],
     "api_available": true,
     "launched": "2020-10-01"
   },
@@ -214,13 +400,35 @@
       "billing_cycle": "monthly",
       "details": "Free trial, Individual at $16/mo"
     },
-    "features": ["Article writer", "Chatsonic chatbot", "Photosonic images", "SEO optimization", "Fact-checking"],
-    "pros": ["All-in-one platform", "Affordable", "Good for SEO content"],
-    "cons": ["Quality inconsistent", "Credits can run out fast"],
-    "best_for": ["Bloggers", "SEO content", "Budget-conscious users"],
-    "rating": 4.0,
+    "features": [
+      "Article writer",
+      "Chatsonic chatbot",
+      "Photosonic images",
+      "SEO optimization",
+      "Fact-checking"
+    ],
+    "pros": [
+      "All-in-one platform",
+      "Affordable",
+      "Good for SEO content"
+    ],
+    "cons": [
+      "Quality inconsistent",
+      "Credits can run out fast"
+    ],
+    "best_for": [
+      "Bloggers",
+      "SEO content",
+      "Budget-conscious users"
+    ],
+    "rating": 4,
     "popularity_score": 52,
-    "tags": ["writing", "seo", "blogging", "content"],
+    "tags": [
+      "writing",
+      "seo",
+      "blogging",
+      "content"
+    ],
     "api_available": true,
     "launched": "2021-01-01"
   },
@@ -239,13 +447,35 @@
       "billing_cycle": "monthly",
       "details": "Free basic, Premium at $12/mo annually"
     },
-    "features": ["Grammar checking", "Tone detection", "Plagiarism check", "Browser extension", "Generative AI features"],
-    "pros": ["Works everywhere", "Excellent accuracy", "Professional tone suggestions"],
-    "cons": ["Premium for full features", "Can be overly aggressive"],
-    "best_for": ["Professionals", "Students", "Non-native English speakers"],
+    "features": [
+      "Grammar checking",
+      "Tone detection",
+      "Plagiarism check",
+      "Browser extension",
+      "Generative AI features"
+    ],
+    "pros": [
+      "Works everywhere",
+      "Excellent accuracy",
+      "Professional tone suggestions"
+    ],
+    "cons": [
+      "Premium for full features",
+      "Can be overly aggressive"
+    ],
+    "best_for": [
+      "Professionals",
+      "Students",
+      "Non-native English speakers"
+    ],
     "rating": 4.5,
     "popularity_score": 88,
-    "tags": ["writing", "grammar", "proofreading", "productivity"],
+    "tags": [
+      "writing",
+      "grammar",
+      "proofreading",
+      "productivity"
+    ],
     "api_available": true,
     "launched": "2009-07-01"
   },
@@ -264,13 +494,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier with limits, Premium at $9.95/mo"
     },
-    "features": ["Paraphraser", "Grammar checker", "Summarizer", "Citation generator", "Plagiarism checker"],
-    "pros": ["Great for rephrasing", "Multiple modes", "Affordable"],
-    "cons": ["Can change meaning", "Limited free version"],
-    "best_for": ["Students", "Researchers", "Content rewriters"],
+    "features": [
+      "Paraphraser",
+      "Grammar checker",
+      "Summarizer",
+      "Citation generator",
+      "Plagiarism checker"
+    ],
+    "pros": [
+      "Great for rephrasing",
+      "Multiple modes",
+      "Affordable"
+    ],
+    "cons": [
+      "Can change meaning",
+      "Limited free version"
+    ],
+    "best_for": [
+      "Students",
+      "Researchers",
+      "Content rewriters"
+    ],
     "rating": 4.2,
     "popularity_score": 68,
-    "tags": ["paraphrasing", "writing", "academic", "rewriting"],
+    "tags": [
+      "paraphrasing",
+      "writing",
+      "academic",
+      "rewriting"
+    ],
     "api_available": false,
     "launched": "2017-01-01"
   },
@@ -289,13 +541,36 @@
       "billing_cycle": "monthly",
       "details": "Basic at $10/mo, Standard at $30/mo"
     },
-    "features": ["High-quality art", "Style variations", "Upscaling", "Remix mode", "Pan and zoom"],
-    "pros": ["Best artistic quality", "Active community", "Consistent style"],
-    "cons": ["Discord-only", "No free tier", "Learning curve for prompts"],
-    "best_for": ["Artists", "Designers", "Marketing visuals"],
+    "features": [
+      "High-quality art",
+      "Style variations",
+      "Upscaling",
+      "Remix mode",
+      "Pan and zoom"
+    ],
+    "pros": [
+      "Best artistic quality",
+      "Active community",
+      "Consistent style"
+    ],
+    "cons": [
+      "Discord-only",
+      "No free tier",
+      "Learning curve for prompts"
+    ],
+    "best_for": [
+      "Artists",
+      "Designers",
+      "Marketing visuals"
+    ],
     "rating": 4.7,
     "popularity_score": 90,
-    "tags": ["image-generation", "art", "design", "creative"],
+    "tags": [
+      "image-generation",
+      "art",
+      "design",
+      "creative"
+    ],
     "api_available": false,
     "launched": "2022-07-12"
   },
@@ -314,13 +589,35 @@
       "billing_cycle": "per-image",
       "details": "Included in ChatGPT Plus, API at $0.04-0.08/image"
     },
-    "features": ["Text-to-image", "ChatGPT integration", "Prompt refinement", "Editing", "Variations"],
-    "pros": ["Easy to use", "Good prompt understanding", "ChatGPT integration"],
-    "cons": ["Less artistic than Midjourney", "Safety restrictions"],
-    "best_for": ["ChatGPT users", "Quick generations", "Content creators"],
+    "features": [
+      "Text-to-image",
+      "ChatGPT integration",
+      "Prompt refinement",
+      "Editing",
+      "Variations"
+    ],
+    "pros": [
+      "Easy to use",
+      "Good prompt understanding",
+      "ChatGPT integration"
+    ],
+    "cons": [
+      "Less artistic than Midjourney",
+      "Safety restrictions"
+    ],
+    "best_for": [
+      "ChatGPT users",
+      "Quick generations",
+      "Content creators"
+    ],
     "rating": 4.3,
     "popularity_score": 82,
-    "tags": ["image-generation", "openai", "text-to-image", "creative"],
+    "tags": [
+      "image-generation",
+      "openai",
+      "text-to-image",
+      "creative"
+    ],
     "api_available": true,
     "launched": "2023-10-03"
   },
@@ -339,13 +636,36 @@
       "billing_cycle": "one-time",
       "details": "Free to run locally, cloud options available"
     },
-    "features": ["Open-source", "Local running", "Fine-tuning", "ControlNet", "Massive model ecosystem"],
-    "pros": ["Free", "Full control", "Huge community", "Many models"],
-    "cons": ["Technical setup required", "Hardware intensive"],
-    "best_for": ["Developers", "Artists wanting control", "Hobbyists"],
+    "features": [
+      "Open-source",
+      "Local running",
+      "Fine-tuning",
+      "ControlNet",
+      "Massive model ecosystem"
+    ],
+    "pros": [
+      "Free",
+      "Full control",
+      "Huge community",
+      "Many models"
+    ],
+    "cons": [
+      "Technical setup required",
+      "Hardware intensive"
+    ],
+    "best_for": [
+      "Developers",
+      "Artists wanting control",
+      "Hobbyists"
+    ],
     "rating": 4.5,
     "popularity_score": 85,
-    "tags": ["image-generation", "open-source", "art", "self-hosted"],
+    "tags": [
+      "image-generation",
+      "open-source",
+      "art",
+      "self-hosted"
+    ],
     "api_available": true,
     "launched": "2022-08-22"
   },
@@ -364,13 +684,35 @@
       "billing_cycle": "monthly",
       "details": "150 free tokens/day, Apprentice at $12/mo"
     },
-    "features": ["Image generation", "Fine-tuned models", "Canvas editor", "3D textures", "Motion generation"],
-    "pros": ["Generous free tier", "Good for game assets", "Easy fine-tuning"],
-    "cons": ["Quality varies by model", "Token limits"],
-    "best_for": ["Game developers", "Digital artists", "Content creators"],
+    "features": [
+      "Image generation",
+      "Fine-tuned models",
+      "Canvas editor",
+      "3D textures",
+      "Motion generation"
+    ],
+    "pros": [
+      "Generous free tier",
+      "Good for game assets",
+      "Easy fine-tuning"
+    ],
+    "cons": [
+      "Quality varies by model",
+      "Token limits"
+    ],
+    "best_for": [
+      "Game developers",
+      "Digital artists",
+      "Content creators"
+    ],
     "rating": 4.3,
     "popularity_score": 70,
-    "tags": ["image-generation", "game-assets", "creative", "3d"],
+    "tags": [
+      "image-generation",
+      "game-assets",
+      "creative",
+      "3d"
+    ],
     "api_available": true,
     "launched": "2022-12-01"
   },
@@ -389,13 +731,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier available, Basic at $7/mo"
     },
-    "features": ["Text in images", "Magic prompt", "Style options", "Image editing", "Upscaling"],
-    "pros": ["Best text rendering", "Free tier", "Good quality"],
-    "cons": ["Newer platform", "Smaller community"],
-    "best_for": ["Marketing graphics", "Social media", "Logos with text"],
+    "features": [
+      "Text in images",
+      "Magic prompt",
+      "Style options",
+      "Image editing",
+      "Upscaling"
+    ],
+    "pros": [
+      "Best text rendering",
+      "Free tier",
+      "Good quality"
+    ],
+    "cons": [
+      "Newer platform",
+      "Smaller community"
+    ],
+    "best_for": [
+      "Marketing graphics",
+      "Social media",
+      "Logos with text"
+    ],
     "rating": 4.4,
     "popularity_score": 65,
-    "tags": ["image-generation", "text-rendering", "typography", "design"],
+    "tags": [
+      "image-generation",
+      "text-rendering",
+      "typography",
+      "design"
+    ],
     "api_available": true,
     "launched": "2023-08-22"
   },
@@ -414,13 +778,35 @@
       "billing_cycle": "one-time",
       "details": "Free open model, commercial licenses available"
     },
-    "features": ["High quality", "Fast generation", "Open weights", "Multiple variants", "Good prompt following"],
-    "pros": ["Excellent quality", "Open-source", "Fast"],
-    "cons": ["Newer, less documentation", "Hardware requirements"],
-    "best_for": ["Developers", "Quality-focused creators", "Open-source enthusiasts"],
+    "features": [
+      "High quality",
+      "Fast generation",
+      "Open weights",
+      "Multiple variants",
+      "Good prompt following"
+    ],
+    "pros": [
+      "Excellent quality",
+      "Open-source",
+      "Fast"
+    ],
+    "cons": [
+      "Newer, less documentation",
+      "Hardware requirements"
+    ],
+    "best_for": [
+      "Developers",
+      "Quality-focused creators",
+      "Open-source enthusiasts"
+    ],
     "rating": 4.6,
     "popularity_score": 60,
-    "tags": ["image-generation", "open-source", "high-quality", "fast"],
+    "tags": [
+      "image-generation",
+      "open-source",
+      "high-quality",
+      "fast"
+    ],
     "api_available": true,
     "launched": "2024-08-01"
   },
@@ -439,13 +825,35 @@
       "billing_cycle": "monthly",
       "details": "Free credits, Standard at $12/mo"
     },
-    "features": ["Gen-2 video", "Image-to-video", "Video editing", "Background removal", "Motion brush"],
-    "pros": ["Leading in video AI", "Professional tools", "Easy to use"],
-    "cons": ["Credits run out fast", "Expensive for heavy use"],
-    "best_for": ["Video creators", "Filmmakers", "Content agencies"],
+    "features": [
+      "Gen-2 video",
+      "Image-to-video",
+      "Video editing",
+      "Background removal",
+      "Motion brush"
+    ],
+    "pros": [
+      "Leading in video AI",
+      "Professional tools",
+      "Easy to use"
+    ],
+    "cons": [
+      "Credits run out fast",
+      "Expensive for heavy use"
+    ],
+    "best_for": [
+      "Video creators",
+      "Filmmakers",
+      "Content agencies"
+    ],
     "rating": 4.4,
     "popularity_score": 75,
-    "tags": ["video-generation", "creative", "editing", "filmmaking"],
+    "tags": [
+      "video-generation",
+      "creative",
+      "editing",
+      "filmmaking"
+    ],
     "api_available": true,
     "launched": "2018-07-01"
   },
@@ -464,13 +872,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Basic at $8/mo"
     },
-    "features": ["Text-to-video", "Image-to-video", "Lip sync", "Extend video", "Camera controls"],
-    "pros": ["Easy to use", "Free tier", "Good quality"],
-    "cons": ["Short clips only", "Limited control"],
-    "best_for": ["Social media creators", "Quick videos", "Hobbyists"],
+    "features": [
+      "Text-to-video",
+      "Image-to-video",
+      "Lip sync",
+      "Extend video",
+      "Camera controls"
+    ],
+    "pros": [
+      "Easy to use",
+      "Free tier",
+      "Good quality"
+    ],
+    "cons": [
+      "Short clips only",
+      "Limited control"
+    ],
+    "best_for": [
+      "Social media creators",
+      "Quick videos",
+      "Hobbyists"
+    ],
     "rating": 4.2,
     "popularity_score": 62,
-    "tags": ["video-generation", "text-to-video", "creative", "social-media"],
+    "tags": [
+      "video-generation",
+      "text-to-video",
+      "creative",
+      "social-media"
+    ],
     "api_available": false,
     "launched": "2023-06-28"
   },
@@ -489,18 +919,39 @@
       "billing_cycle": "monthly",
       "details": "Included in ChatGPT Pro at $200/mo"
     },
-    "features": ["Text-to-video", "High quality", "Long duration", "Scene understanding", "Image-to-video"],
-    "pros": ["Highest quality", "Realistic output", "OpenAI backing"],
-    "cons": ["Very expensive", "Limited access", "Usage limits"],
-    "best_for": ["Professional filmmakers", "Ad agencies", "Studios"],
+    "features": [
+      "Text-to-video",
+      "High quality",
+      "Long duration",
+      "Scene understanding",
+      "Image-to-video"
+    ],
+    "pros": [
+      "Highest quality",
+      "Realistic output",
+      "OpenAI backing"
+    ],
+    "cons": [
+      "Very expensive",
+      "Limited access",
+      "Usage limits"
+    ],
+    "best_for": [
+      "Professional filmmakers",
+      "Ad agencies",
+      "Studios"
+    ],
     "rating": 4.5,
     "popularity_score": 70,
-    "tags": ["video-generation", "openai", "professional", "realistic"],
+    "tags": [
+      "video-generation",
+      "openai",
+      "professional",
+      "realistic"
+    ],
     "api_available": false,
     "launched": "2024-12-09"
-  }
-,
-
+  },
   {
     "slug": "cursor",
     "name": "Cursor",
@@ -516,13 +967,37 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $20/mo"
     },
-    "features": ["AI autocomplete", "Chat with codebase", "Multi-file editing", "Terminal integration", "Claude/GPT-4 models"],
-    "pros": ["Revolutionary coding UX", "Understands full codebase", "Fast", "VS Code compatible"],
-    "cons": ["New bugs occasionally", "Learning curve", "Subscription for best features"],
-    "best_for": ["Developers", "Indie hackers", "Development teams"],
+    "features": [
+      "AI autocomplete",
+      "Chat with codebase",
+      "Multi-file editing",
+      "Terminal integration",
+      "Claude/GPT-4 models"
+    ],
+    "pros": [
+      "Revolutionary coding UX",
+      "Understands full codebase",
+      "Fast",
+      "VS Code compatible"
+    ],
+    "cons": [
+      "New bugs occasionally",
+      "Learning curve",
+      "Subscription for best features"
+    ],
+    "best_for": [
+      "Developers",
+      "Indie hackers",
+      "Development teams"
+    ],
     "rating": 4.7,
     "popularity_score": 88,
-    "tags": ["coding", "ide", "developer-tools", "productivity"],
+    "tags": [
+      "coding",
+      "ide",
+      "developer-tools",
+      "productivity"
+    ],
     "api_available": false,
     "launched": "2023-03-01"
   },
@@ -541,13 +1016,36 @@
       "billing_cycle": "monthly",
       "details": "Individual at $10/mo, Business at $19/user/mo"
     },
-    "features": ["Code completion", "Chat interface", "Multi-IDE support", "Code explanation", "Test generation"],
-    "pros": ["Deep GitHub integration", "Widely adopted", "Excellent suggestions"],
-    "cons": ["No free tier", "Occasional wrong suggestions", "Privacy concerns"],
-    "best_for": ["Professional developers", "Teams using GitHub", "Enterprise"],
+    "features": [
+      "Code completion",
+      "Chat interface",
+      "Multi-IDE support",
+      "Code explanation",
+      "Test generation"
+    ],
+    "pros": [
+      "Deep GitHub integration",
+      "Widely adopted",
+      "Excellent suggestions"
+    ],
+    "cons": [
+      "No free tier",
+      "Occasional wrong suggestions",
+      "Privacy concerns"
+    ],
+    "best_for": [
+      "Professional developers",
+      "Teams using GitHub",
+      "Enterprise"
+    ],
     "rating": 4.5,
     "popularity_score": 92,
-    "tags": ["coding", "github", "autocomplete", "developer-tools"],
+    "tags": [
+      "coding",
+      "github",
+      "autocomplete",
+      "developer-tools"
+    ],
     "api_available": false,
     "launched": "2021-06-29"
   },
@@ -566,13 +1064,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Replit Core at $15/mo"
     },
-    "features": ["Browser IDE", "AI chat", "Deployments", "Multiplayer coding", "Database included"],
-    "pros": ["No setup needed", "Great for beginners", "Instant deployment"],
-    "cons": ["Performance limitations", "AI features require paid"],
-    "best_for": ["Beginners", "Quick prototypes", "Learning to code"],
+    "features": [
+      "Browser IDE",
+      "AI chat",
+      "Deployments",
+      "Multiplayer coding",
+      "Database included"
+    ],
+    "pros": [
+      "No setup needed",
+      "Great for beginners",
+      "Instant deployment"
+    ],
+    "cons": [
+      "Performance limitations",
+      "AI features require paid"
+    ],
+    "best_for": [
+      "Beginners",
+      "Quick prototypes",
+      "Learning to code"
+    ],
     "rating": 4.3,
     "popularity_score": 78,
-    "tags": ["coding", "ide", "cloud", "beginner-friendly"],
+    "tags": [
+      "coding",
+      "ide",
+      "cloud",
+      "beginner-friendly"
+    ],
     "api_available": true,
     "launched": "2016-01-01"
   },
@@ -591,13 +1111,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Premium at $20/mo"
     },
-    "features": ["UI generation", "React/Tailwind output", "Iteration", "Code export", "Component library"],
-    "pros": ["High quality UI", "Production-ready code", "Fast iteration"],
-    "cons": ["React/Next.js focused", "Credits limited"],
-    "best_for": ["Frontend developers", "Rapid prototyping", "Startups"],
+    "features": [
+      "UI generation",
+      "React/Tailwind output",
+      "Iteration",
+      "Code export",
+      "Component library"
+    ],
+    "pros": [
+      "High quality UI",
+      "Production-ready code",
+      "Fast iteration"
+    ],
+    "cons": [
+      "React/Next.js focused",
+      "Credits limited"
+    ],
+    "best_for": [
+      "Frontend developers",
+      "Rapid prototyping",
+      "Startups"
+    ],
     "rating": 4.5,
     "popularity_score": 72,
-    "tags": ["coding", "ui-design", "react", "frontend"],
+    "tags": [
+      "coding",
+      "ui-design",
+      "react",
+      "frontend"
+    ],
     "api_available": false,
     "launched": "2023-09-14"
   },
@@ -616,13 +1158,35 @@
       "billing_cycle": "monthly",
       "details": "Free for individuals, Teams version available"
     },
-    "features": ["Code completion", "Chat", "70+ languages", "All major IDEs", "Search"],
-    "pros": ["Free forever for individuals", "Wide IDE support", "Fast"],
-    "cons": ["Less accurate than Copilot sometimes", "Newer product"],
-    "best_for": ["Budget-conscious developers", "Multi-language projects", "Students"],
+    "features": [
+      "Code completion",
+      "Chat",
+      "70+ languages",
+      "All major IDEs",
+      "Search"
+    ],
+    "pros": [
+      "Free forever for individuals",
+      "Wide IDE support",
+      "Fast"
+    ],
+    "cons": [
+      "Less accurate than Copilot sometimes",
+      "Newer product"
+    ],
+    "best_for": [
+      "Budget-conscious developers",
+      "Multi-language projects",
+      "Students"
+    ],
     "rating": 4.2,
     "popularity_score": 65,
-    "tags": ["coding", "free", "autocomplete", "multi-language"],
+    "tags": [
+      "coding",
+      "free",
+      "autocomplete",
+      "multi-language"
+    ],
     "api_available": true,
     "launched": "2022-11-01"
   },
@@ -641,13 +1205,35 @@
       "billing_cycle": "monthly",
       "details": "Free basic, Pro at $12/mo"
     },
-    "features": ["Code completion", "Private deployment", "Team learning", "Multiple IDEs", "Security focus"],
-    "pros": ["Privacy-first", "On-premise option", "Learns your codebase"],
-    "cons": ["Less powerful than competitors", "Pro needed for best features"],
-    "best_for": ["Enterprise", "Security-conscious teams", "Private codebases"],
-    "rating": 4.0,
+    "features": [
+      "Code completion",
+      "Private deployment",
+      "Team learning",
+      "Multiple IDEs",
+      "Security focus"
+    ],
+    "pros": [
+      "Privacy-first",
+      "On-premise option",
+      "Learns your codebase"
+    ],
+    "cons": [
+      "Less powerful than competitors",
+      "Pro needed for best features"
+    ],
+    "best_for": [
+      "Enterprise",
+      "Security-conscious teams",
+      "Private codebases"
+    ],
+    "rating": 4,
     "popularity_score": 55,
-    "tags": ["coding", "privacy", "enterprise", "security"],
+    "tags": [
+      "coding",
+      "privacy",
+      "enterprise",
+      "security"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
   },
@@ -666,13 +1252,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Starter at $5/mo"
     },
-    "features": ["Text-to-speech", "Voice cloning", "Multiple languages", "API access", "Voice library"],
-    "pros": ["Best quality voices", "Easy cloning", "Great API"],
-    "cons": ["Expensive at scale", "Ethical concerns with cloning"],
-    "best_for": ["Content creators", "Audiobook producers", "Video makers"],
+    "features": [
+      "Text-to-speech",
+      "Voice cloning",
+      "Multiple languages",
+      "API access",
+      "Voice library"
+    ],
+    "pros": [
+      "Best quality voices",
+      "Easy cloning",
+      "Great API"
+    ],
+    "cons": [
+      "Expensive at scale",
+      "Ethical concerns with cloning"
+    ],
+    "best_for": [
+      "Content creators",
+      "Audiobook producers",
+      "Video makers"
+    ],
     "rating": 4.6,
     "popularity_score": 82,
-    "tags": ["audio", "text-to-speech", "voice-cloning", "content"],
+    "tags": [
+      "audio",
+      "text-to-speech",
+      "voice-cloning",
+      "content"
+    ],
     "api_available": true,
     "launched": "2022-01-01"
   },
@@ -691,13 +1299,35 @@
       "billing_cycle": "monthly",
       "details": "Free trial, Basic at $19/mo"
     },
-    "features": ["120+ voices", "Voice changer", "Transcription", "Video sync", "API access"],
-    "pros": ["Professional quality", "Many voice options", "Good for business"],
-    "cons": ["Limited free tier", "Less natural than ElevenLabs"],
-    "best_for": ["E-learning", "Marketing videos", "Presentations"],
+    "features": [
+      "120+ voices",
+      "Voice changer",
+      "Transcription",
+      "Video sync",
+      "API access"
+    ],
+    "pros": [
+      "Professional quality",
+      "Many voice options",
+      "Good for business"
+    ],
+    "cons": [
+      "Limited free tier",
+      "Less natural than ElevenLabs"
+    ],
+    "best_for": [
+      "E-learning",
+      "Marketing videos",
+      "Presentations"
+    ],
     "rating": 4.2,
     "popularity_score": 58,
-    "tags": ["audio", "voiceover", "text-to-speech", "professional"],
+    "tags": [
+      "audio",
+      "voiceover",
+      "text-to-speech",
+      "professional"
+    ],
     "api_available": true,
     "launched": "2020-01-01"
   },
@@ -716,13 +1346,36 @@
       "billing_cycle": "monthly",
       "details": "Free credits, Pro at $10/mo"
     },
-    "features": ["Full song generation", "Lyrics writing", "Multiple genres", "Voice synthesis", "Remixing"],
-    "pros": ["Creates complete songs", "Easy to use", "Good free tier"],
-    "cons": ["Quality varies", "Copyright questions", "Limited control"],
-    "best_for": ["Content creators", "Hobbyist musicians", "Social media"],
+    "features": [
+      "Full song generation",
+      "Lyrics writing",
+      "Multiple genres",
+      "Voice synthesis",
+      "Remixing"
+    ],
+    "pros": [
+      "Creates complete songs",
+      "Easy to use",
+      "Good free tier"
+    ],
+    "cons": [
+      "Quality varies",
+      "Copyright questions",
+      "Limited control"
+    ],
+    "best_for": [
+      "Content creators",
+      "Hobbyist musicians",
+      "Social media"
+    ],
     "rating": 4.3,
     "popularity_score": 70,
-    "tags": ["audio", "music", "creative", "song-generation"],
+    "tags": [
+      "audio",
+      "music",
+      "creative",
+      "song-generation"
+    ],
     "api_available": false,
     "launched": "2023-09-01"
   },
@@ -741,13 +1394,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Standard at $10/mo"
     },
-    "features": ["Music generation", "Vocal synthesis", "Genre control", "Song extension", "Audio upload"],
-    "pros": ["High quality output", "Good vocals", "Genre flexibility"],
-    "cons": ["Newer platform", "Limited customization"],
-    "best_for": ["Musicians", "Content creators", "Experimenters"],
+    "features": [
+      "Music generation",
+      "Vocal synthesis",
+      "Genre control",
+      "Song extension",
+      "Audio upload"
+    ],
+    "pros": [
+      "High quality output",
+      "Good vocals",
+      "Genre flexibility"
+    ],
+    "cons": [
+      "Newer platform",
+      "Limited customization"
+    ],
+    "best_for": [
+      "Musicians",
+      "Content creators",
+      "Experimenters"
+    ],
     "rating": 4.4,
     "popularity_score": 65,
-    "tags": ["audio", "music", "ai-music", "creative"],
+    "tags": [
+      "audio",
+      "music",
+      "ai-music",
+      "creative"
+    ],
     "api_available": false,
     "launched": "2024-04-10"
   },
@@ -766,13 +1441,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Creator at $12/mo"
     },
-    "features": ["Transcription", "Text-based editing", "Overdub voice", "Screen recording", "Podcast editing"],
-    "pros": ["Revolutionary editing UX", "Accurate transcription", "All-in-one"],
-    "cons": ["Learning curve", "Expensive for teams"],
-    "best_for": ["Podcasters", "Video editors", "Content creators"],
+    "features": [
+      "Transcription",
+      "Text-based editing",
+      "Overdub voice",
+      "Screen recording",
+      "Podcast editing"
+    ],
+    "pros": [
+      "Revolutionary editing UX",
+      "Accurate transcription",
+      "All-in-one"
+    ],
+    "cons": [
+      "Learning curve",
+      "Expensive for teams"
+    ],
+    "best_for": [
+      "Podcasters",
+      "Video editors",
+      "Content creators"
+    ],
     "rating": 4.5,
     "popularity_score": 75,
-    "tags": ["audio", "video", "editing", "transcription"],
+    "tags": [
+      "audio",
+      "video",
+      "editing",
+      "transcription"
+    ],
     "api_available": true,
     "launched": "2017-01-01"
   },
@@ -791,13 +1488,35 @@
       "billing_cycle": "monthly",
       "details": "$10/member/mo add-on to Notion plans"
     },
-    "features": ["Writing assistance", "Summarization", "Translation", "Q&A on docs", "Action items extraction"],
-    "pros": ["Native integration", "Context-aware", "Good for teams"],
-    "cons": ["Add-on cost", "Requires Notion subscription"],
-    "best_for": ["Notion users", "Teams", "Knowledge workers"],
+    "features": [
+      "Writing assistance",
+      "Summarization",
+      "Translation",
+      "Q&A on docs",
+      "Action items extraction"
+    ],
+    "pros": [
+      "Native integration",
+      "Context-aware",
+      "Good for teams"
+    ],
+    "cons": [
+      "Add-on cost",
+      "Requires Notion subscription"
+    ],
+    "best_for": [
+      "Notion users",
+      "Teams",
+      "Knowledge workers"
+    ],
     "rating": 4.2,
     "popularity_score": 70,
-    "tags": ["productivity", "writing", "workspace", "collaboration"],
+    "tags": [
+      "productivity",
+      "writing",
+      "workspace",
+      "collaboration"
+    ],
     "api_available": false,
     "launched": "2023-02-22"
   },
@@ -816,13 +1535,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $16.99/mo"
     },
-    "features": ["Live transcription", "Meeting summaries", "Action items", "Speaker ID", "Integrations"],
-    "pros": ["Accurate transcription", "Great summaries", "Meeting integrations"],
-    "cons": ["Limited free minutes", "English-focused"],
-    "best_for": ["Remote workers", "Sales teams", "Researchers"],
+    "features": [
+      "Live transcription",
+      "Meeting summaries",
+      "Action items",
+      "Speaker ID",
+      "Integrations"
+    ],
+    "pros": [
+      "Accurate transcription",
+      "Great summaries",
+      "Meeting integrations"
+    ],
+    "cons": [
+      "Limited free minutes",
+      "English-focused"
+    ],
+    "best_for": [
+      "Remote workers",
+      "Sales teams",
+      "Researchers"
+    ],
     "rating": 4.3,
     "popularity_score": 72,
-    "tags": ["productivity", "meetings", "transcription", "collaboration"],
+    "tags": [
+      "productivity",
+      "meetings",
+      "transcription",
+      "collaboration"
+    ],
     "api_available": true,
     "launched": "2016-01-01"
   },
@@ -841,13 +1582,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Mem Plus at $15/mo"
     },
-    "features": ["Smart search", "Auto-organization", "AI chat", "Related notes", "Quick capture"],
-    "pros": ["No folders needed", "Great for quick notes", "AI finds connections"],
-    "cons": ["Limited formatting", "Smaller feature set than Notion"],
-    "best_for": ["Quick thinkers", "Researchers", "Writers"],
+    "features": [
+      "Smart search",
+      "Auto-organization",
+      "AI chat",
+      "Related notes",
+      "Quick capture"
+    ],
+    "pros": [
+      "No folders needed",
+      "Great for quick notes",
+      "AI finds connections"
+    ],
+    "cons": [
+      "Limited formatting",
+      "Smaller feature set than Notion"
+    ],
+    "best_for": [
+      "Quick thinkers",
+      "Researchers",
+      "Writers"
+    ],
     "rating": 4.1,
     "popularity_score": 52,
-    "tags": ["productivity", "notes", "knowledge-management", "ai-search"],
+    "tags": [
+      "productivity",
+      "notes",
+      "knowledge-management",
+      "ai-search"
+    ],
     "api_available": false,
     "launched": "2020-01-01"
   },
@@ -866,13 +1629,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Starter at $8/mo"
     },
-    "features": ["Smart scheduling", "Task planning", "Habit tracking", "Meeting optimization", "Buffer time"],
-    "pros": ["Saves scheduling time", "Protects focus time", "Team coordination"],
-    "cons": ["Google Calendar focused", "Learning curve"],
-    "best_for": ["Busy professionals", "Managers", "Remote teams"],
+    "features": [
+      "Smart scheduling",
+      "Task planning",
+      "Habit tracking",
+      "Meeting optimization",
+      "Buffer time"
+    ],
+    "pros": [
+      "Saves scheduling time",
+      "Protects focus time",
+      "Team coordination"
+    ],
+    "cons": [
+      "Google Calendar focused",
+      "Learning curve"
+    ],
+    "best_for": [
+      "Busy professionals",
+      "Managers",
+      "Remote teams"
+    ],
     "rating": 4.4,
     "popularity_score": 58,
-    "tags": ["productivity", "calendar", "scheduling", "time-management"],
+    "tags": [
+      "productivity",
+      "calendar",
+      "scheduling",
+      "time-management"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
   },
@@ -891,13 +1676,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $12.99/mo"
     },
-    "features": ["Magic Design", "Background remover", "AI image generation", "Brand kit", "Collaboration"],
-    "pros": ["Easy to use", "Huge template library", "All-in-one"],
-    "cons": ["AI features limited on free", "Can look generic"],
-    "best_for": ["Non-designers", "Social media managers", "Small businesses"],
+    "features": [
+      "Magic Design",
+      "Background remover",
+      "AI image generation",
+      "Brand kit",
+      "Collaboration"
+    ],
+    "pros": [
+      "Easy to use",
+      "Huge template library",
+      "All-in-one"
+    ],
+    "cons": [
+      "AI features limited on free",
+      "Can look generic"
+    ],
+    "best_for": [
+      "Non-designers",
+      "Social media managers",
+      "Small businesses"
+    ],
     "rating": 4.6,
     "popularity_score": 95,
-    "tags": ["design", "graphics", "social-media", "templates"],
+    "tags": [
+      "design",
+      "graphics",
+      "social-media",
+      "templates"
+    ],
     "api_available": true,
     "launched": "2013-01-01"
   },
@@ -916,13 +1723,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Professional at $15/editor/mo"
     },
-    "features": ["UI generation", "Layer renaming", "Asset search", "Prototyping", "Design systems"],
-    "pros": ["Industry standard", "Great collaboration", "AI speeds up work"],
-    "cons": ["AI features still developing", "Expensive for teams"],
-    "best_for": ["UI designers", "Design teams", "Product companies"],
+    "features": [
+      "UI generation",
+      "Layer renaming",
+      "Asset search",
+      "Prototyping",
+      "Design systems"
+    ],
+    "pros": [
+      "Industry standard",
+      "Great collaboration",
+      "AI speeds up work"
+    ],
+    "cons": [
+      "AI features still developing",
+      "Expensive for teams"
+    ],
+    "best_for": [
+      "UI designers",
+      "Design teams",
+      "Product companies"
+    ],
     "rating": 4.7,
     "popularity_score": 90,
-    "tags": ["design", "ui-ux", "collaboration", "prototyping"],
+    "tags": [
+      "design",
+      "ui-ux",
+      "collaboration",
+      "prototyping"
+    ],
     "api_available": true,
     "launched": "2016-01-01"
   },
@@ -941,13 +1770,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Mini at $5/mo"
     },
-    "features": ["AI site generation", "Visual editor", "CMS", "Animations", "Responsive design"],
-    "pros": ["Beautiful outputs", "No-code friendly", "Great animations"],
-    "cons": ["Learning curve for advanced features", "Limited CMS"],
-    "best_for": ["Designers", "Startups", "Portfolio sites"],
+    "features": [
+      "AI site generation",
+      "Visual editor",
+      "CMS",
+      "Animations",
+      "Responsive design"
+    ],
+    "pros": [
+      "Beautiful outputs",
+      "No-code friendly",
+      "Great animations"
+    ],
+    "cons": [
+      "Learning curve for advanced features",
+      "Limited CMS"
+    ],
+    "best_for": [
+      "Designers",
+      "Startups",
+      "Portfolio sites"
+    ],
     "rating": 4.5,
     "popularity_score": 72,
-    "tags": ["design", "website-builder", "no-code", "portfolio"],
+    "tags": [
+      "design",
+      "website-builder",
+      "no-code",
+      "portfolio"
+    ],
     "api_available": false,
     "launched": "2014-01-01"
   },
@@ -966,13 +1817,35 @@
       "billing_cycle": "monthly",
       "details": "Free for preview, credits from $9"
     },
-    "features": ["Instant removal", "API access", "Bulk processing", "HD output", "Integrations"],
-    "pros": ["Best-in-class quality", "Super fast", "Easy to use"],
-    "cons": ["Credits expensive", "HD requires payment"],
-    "best_for": ["E-commerce", "Photographers", "Marketers"],
+    "features": [
+      "Instant removal",
+      "API access",
+      "Bulk processing",
+      "HD output",
+      "Integrations"
+    ],
+    "pros": [
+      "Best-in-class quality",
+      "Super fast",
+      "Easy to use"
+    ],
+    "cons": [
+      "Credits expensive",
+      "HD requires payment"
+    ],
+    "best_for": [
+      "E-commerce",
+      "Photographers",
+      "Marketers"
+    ],
     "rating": 4.6,
     "popularity_score": 78,
-    "tags": ["design", "image-editing", "background-removal", "e-commerce"],
+    "tags": [
+      "design",
+      "image-editing",
+      "background-removal",
+      "e-commerce"
+    ],
     "api_available": true,
     "launched": "2018-01-01"
   },
@@ -991,18 +1864,38 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $9.99/mo"
     },
-    "features": ["Background removal", "AI backgrounds", "Batch editing", "Templates", "E-commerce focus"],
-    "pros": ["Perfect for products", "Mobile-friendly", "Fast"],
-    "cons": ["Watermark on free", "Limited for non-product photos"],
-    "best_for": ["E-commerce sellers", "Social media shops", "Resellers"],
+    "features": [
+      "Background removal",
+      "AI backgrounds",
+      "Batch editing",
+      "Templates",
+      "E-commerce focus"
+    ],
+    "pros": [
+      "Perfect for products",
+      "Mobile-friendly",
+      "Fast"
+    ],
+    "cons": [
+      "Watermark on free",
+      "Limited for non-product photos"
+    ],
+    "best_for": [
+      "E-commerce sellers",
+      "Social media shops",
+      "Resellers"
+    ],
     "rating": 4.5,
     "popularity_score": 70,
-    "tags": ["design", "e-commerce", "photo-editing", "product-photos"],
+    "tags": [
+      "design",
+      "e-commerce",
+      "photo-editing",
+      "product-photos"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
-  }
-,
-
+  },
   {
     "slug": "consensus",
     "name": "Consensus",
@@ -1018,13 +1911,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Premium at $8.99/mo"
     },
-    "features": ["Paper search", "AI summaries", "Copilot chat", "Citation export", "Study snapshots"],
-    "pros": ["Academic focus", "Shows consensus", "Quality sources"],
-    "cons": ["Limited to published research", "Some paywalled papers"],
-    "best_for": ["Researchers", "Students", "Science writers"],
+    "features": [
+      "Paper search",
+      "AI summaries",
+      "Copilot chat",
+      "Citation export",
+      "Study snapshots"
+    ],
+    "pros": [
+      "Academic focus",
+      "Shows consensus",
+      "Quality sources"
+    ],
+    "cons": [
+      "Limited to published research",
+      "Some paywalled papers"
+    ],
+    "best_for": [
+      "Researchers",
+      "Students",
+      "Science writers"
+    ],
     "rating": 4.4,
     "popularity_score": 55,
-    "tags": ["research", "academic", "science", "papers"],
+    "tags": [
+      "research",
+      "academic",
+      "science",
+      "papers"
+    ],
     "api_available": false,
     "launched": "2022-01-01"
   },
@@ -1043,13 +1958,34 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Plus at $10/mo"
     },
-    "features": ["Paper discovery", "Data extraction", "Summarization", "Citation finding", "Tables"],
-    "pros": ["Excellent for literature reviews", "Extracts data automatically"],
-    "cons": ["Learning curve", "Limited to academic use"],
-    "best_for": ["PhD students", "Researchers", "Systematic reviews"],
+    "features": [
+      "Paper discovery",
+      "Data extraction",
+      "Summarization",
+      "Citation finding",
+      "Tables"
+    ],
+    "pros": [
+      "Excellent for literature reviews",
+      "Extracts data automatically"
+    ],
+    "cons": [
+      "Learning curve",
+      "Limited to academic use"
+    ],
+    "best_for": [
+      "PhD students",
+      "Researchers",
+      "Systematic reviews"
+    ],
     "rating": 4.3,
     "popularity_score": 50,
-    "tags": ["research", "academic", "literature-review", "papers"],
+    "tags": [
+      "research",
+      "academic",
+      "literature-review",
+      "papers"
+    ],
     "api_available": false,
     "launched": "2021-01-01"
   },
@@ -1068,13 +2004,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Premium at $20/mo"
     },
-    "features": ["Smart citations", "Citation context", "Paper search", "Reference check", "Browser extension"],
-    "pros": ["Shows citation context", "Helps evaluate papers", "Browser plugin"],
-    "cons": ["Expensive", "Academic focus only"],
-    "best_for": ["Academics", "Fact-checkers", "Science journalists"],
+    "features": [
+      "Smart citations",
+      "Citation context",
+      "Paper search",
+      "Reference check",
+      "Browser extension"
+    ],
+    "pros": [
+      "Shows citation context",
+      "Helps evaluate papers",
+      "Browser plugin"
+    ],
+    "cons": [
+      "Expensive",
+      "Academic focus only"
+    ],
+    "best_for": [
+      "Academics",
+      "Fact-checkers",
+      "Science journalists"
+    ],
     "rating": 4.2,
     "popularity_score": 45,
-    "tags": ["research", "citations", "academic", "verification"],
+    "tags": [
+      "research",
+      "citations",
+      "academic",
+      "verification"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
   },
@@ -1093,13 +2051,35 @@
       "billing_cycle": "one-time",
       "details": "Completely free"
     },
-    "features": ["Paper search", "Citation graphs", "TLDR summaries", "Research feeds", "API access"],
-    "pros": ["Completely free", "Massive database", "Good API"],
-    "cons": ["Less polished UX", "No chat features"],
-    "best_for": ["Researchers", "Students", "Anyone doing literature reviews"],
+    "features": [
+      "Paper search",
+      "Citation graphs",
+      "TLDR summaries",
+      "Research feeds",
+      "API access"
+    ],
+    "pros": [
+      "Completely free",
+      "Massive database",
+      "Good API"
+    ],
+    "cons": [
+      "Less polished UX",
+      "No chat features"
+    ],
+    "best_for": [
+      "Researchers",
+      "Students",
+      "Anyone doing literature reviews"
+    ],
     "rating": 4.4,
     "popularity_score": 60,
-    "tags": ["research", "free", "academic", "citations"],
+    "tags": [
+      "research",
+      "free",
+      "academic",
+      "citations"
+    ],
     "api_available": true,
     "launched": "2015-01-01"
   },
@@ -1118,13 +2098,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier (100 tasks/mo), Starter at $19.99/mo"
     },
-    "features": ["6000+ integrations", "AI actions", "Multi-step zaps", "Paths", "Webhooks"],
-    "pros": ["Huge app library", "No-code", "Reliable"],
-    "cons": ["Expensive at scale", "Task limits"],
-    "best_for": ["Business automation", "Marketing teams", "Operations"],
+    "features": [
+      "6000+ integrations",
+      "AI actions",
+      "Multi-step zaps",
+      "Paths",
+      "Webhooks"
+    ],
+    "pros": [
+      "Huge app library",
+      "No-code",
+      "Reliable"
+    ],
+    "cons": [
+      "Expensive at scale",
+      "Task limits"
+    ],
+    "best_for": [
+      "Business automation",
+      "Marketing teams",
+      "Operations"
+    ],
     "rating": 4.5,
     "popularity_score": 88,
-    "tags": ["automation", "no-code", "integration", "workflow"],
+    "tags": [
+      "automation",
+      "no-code",
+      "integration",
+      "workflow"
+    ],
     "api_available": true,
     "launched": "2011-01-01"
   },
@@ -1143,13 +2145,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Core at $9/mo"
     },
-    "features": ["Visual builder", "1000+ apps", "AI modules", "Complex logic", "Error handling"],
-    "pros": ["More flexible than Zapier", "Better pricing", "Visual workflows"],
-    "cons": ["Steeper learning curve", "Fewer integrations"],
-    "best_for": ["Complex automations", "Technical users", "Agencies"],
+    "features": [
+      "Visual builder",
+      "1000+ apps",
+      "AI modules",
+      "Complex logic",
+      "Error handling"
+    ],
+    "pros": [
+      "More flexible than Zapier",
+      "Better pricing",
+      "Visual workflows"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Fewer integrations"
+    ],
+    "best_for": [
+      "Complex automations",
+      "Technical users",
+      "Agencies"
+    ],
     "rating": 4.4,
     "popularity_score": 72,
-    "tags": ["automation", "visual", "integration", "workflow"],
+    "tags": [
+      "automation",
+      "visual",
+      "integration",
+      "workflow"
+    ],
     "api_available": true,
     "launched": "2012-01-01"
   },
@@ -1168,13 +2192,35 @@
       "billing_cycle": "monthly",
       "details": "Free self-hosted, Cloud from $20/mo"
     },
-    "features": ["Self-hosting", "400+ integrations", "Code nodes", "AI agents", "Fair-code license"],
-    "pros": ["Self-hostable", "No vendor lock-in", "Flexible"],
-    "cons": ["Requires technical setup", "Smaller community"],
-    "best_for": ["Developers", "Privacy-conscious", "Technical teams"],
+    "features": [
+      "Self-hosting",
+      "400+ integrations",
+      "Code nodes",
+      "AI agents",
+      "Fair-code license"
+    ],
+    "pros": [
+      "Self-hostable",
+      "No vendor lock-in",
+      "Flexible"
+    ],
+    "cons": [
+      "Requires technical setup",
+      "Smaller community"
+    ],
+    "best_for": [
+      "Developers",
+      "Privacy-conscious",
+      "Technical teams"
+    ],
     "rating": 4.3,
     "popularity_score": 58,
-    "tags": ["automation", "open-source", "self-hosted", "workflow"],
+    "tags": [
+      "automation",
+      "open-source",
+      "self-hosted",
+      "workflow"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
   },
@@ -1193,13 +2239,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $10/mo"
     },
-    "features": ["Browser automation", "AI playbooks", "Scraping", "App integrations", "Magic Box AI"],
-    "pros": ["Easy to start", "Good for scraping", "AI-powered creation"],
-    "cons": ["Browser-dependent", "Limited complex workflows"],
-    "best_for": ["Sales prospecting", "Data collection", "Browser tasks"],
+    "features": [
+      "Browser automation",
+      "AI playbooks",
+      "Scraping",
+      "App integrations",
+      "Magic Box AI"
+    ],
+    "pros": [
+      "Easy to start",
+      "Good for scraping",
+      "AI-powered creation"
+    ],
+    "cons": [
+      "Browser-dependent",
+      "Limited complex workflows"
+    ],
+    "best_for": [
+      "Sales prospecting",
+      "Data collection",
+      "Browser tasks"
+    ],
     "rating": 4.2,
     "popularity_score": 52,
-    "tags": ["automation", "browser", "scraping", "sales"],
+    "tags": [
+      "automation",
+      "browser",
+      "scraping",
+      "sales"
+    ],
     "api_available": false,
     "launched": "2020-01-01"
   },
@@ -1218,13 +2286,35 @@
       "billing_cycle": "monthly",
       "details": "Starter at $149/mo"
     },
-    "features": ["Data enrichment", "AI research", "Waterfall enrichment", "Integrations", "Templates"],
-    "pros": ["Powerful enrichment", "Combines many data sources", "Great for outbound"],
-    "cons": ["Expensive", "Learning curve"],
-    "best_for": ["Sales teams", "Recruiters", "Growth teams"],
+    "features": [
+      "Data enrichment",
+      "AI research",
+      "Waterfall enrichment",
+      "Integrations",
+      "Templates"
+    ],
+    "pros": [
+      "Powerful enrichment",
+      "Combines many data sources",
+      "Great for outbound"
+    ],
+    "cons": [
+      "Expensive",
+      "Learning curve"
+    ],
+    "best_for": [
+      "Sales teams",
+      "Recruiters",
+      "Growth teams"
+    ],
     "rating": 4.5,
     "popularity_score": 65,
-    "tags": ["sales", "data-enrichment", "outreach", "prospecting"],
+    "tags": [
+      "sales",
+      "data-enrichment",
+      "outreach",
+      "prospecting"
+    ],
     "api_available": true,
     "launched": "2021-01-01"
   },
@@ -1243,13 +2333,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Basic at $49/mo"
     },
-    "features": ["Contact database", "Email sequences", "AI writing", "Intent data", "Chrome extension"],
-    "pros": ["Large database", "Generous free tier", "All-in-one"],
-    "cons": ["Data accuracy varies", "Email limits"],
-    "best_for": ["SDRs", "Startups", "B2B sales"],
+    "features": [
+      "Contact database",
+      "Email sequences",
+      "AI writing",
+      "Intent data",
+      "Chrome extension"
+    ],
+    "pros": [
+      "Large database",
+      "Generous free tier",
+      "All-in-one"
+    ],
+    "cons": [
+      "Data accuracy varies",
+      "Email limits"
+    ],
+    "best_for": [
+      "SDRs",
+      "Startups",
+      "B2B sales"
+    ],
     "rating": 4.3,
     "popularity_score": 75,
-    "tags": ["sales", "prospecting", "email", "b2b"],
+    "tags": [
+      "sales",
+      "prospecting",
+      "email",
+      "b2b"
+    ],
     "api_available": true,
     "launched": "2015-01-01"
   },
@@ -1268,13 +2380,35 @@
       "billing_cycle": "monthly",
       "details": "Custom pricing, typically $100+/user/mo"
     },
-    "features": ["Call recording", "AI analysis", "Deal intelligence", "Coaching insights", "Forecasting"],
-    "pros": ["Deep insights", "Improves win rates", "Great coaching tool"],
-    "cons": ["Very expensive", "Enterprise focus"],
-    "best_for": ["Enterprise sales", "Sales managers", "Revenue ops"],
+    "features": [
+      "Call recording",
+      "AI analysis",
+      "Deal intelligence",
+      "Coaching insights",
+      "Forecasting"
+    ],
+    "pros": [
+      "Deep insights",
+      "Improves win rates",
+      "Great coaching tool"
+    ],
+    "cons": [
+      "Very expensive",
+      "Enterprise focus"
+    ],
+    "best_for": [
+      "Enterprise sales",
+      "Sales managers",
+      "Revenue ops"
+    ],
     "rating": 4.6,
     "popularity_score": 70,
-    "tags": ["sales", "revenue-intelligence", "coaching", "enterprise"],
+    "tags": [
+      "sales",
+      "revenue-intelligence",
+      "coaching",
+      "enterprise"
+    ],
     "api_available": true,
     "launched": "2015-01-01"
   },
@@ -1293,13 +2427,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Starter at $29/mo"
     },
-    "features": ["Email scoring", "AI suggestions", "Personalization", "Analytics", "Integrations"],
-    "pros": ["Improves response rates", "Easy to use", "Good coaching"],
-    "cons": ["Sales email focus only", "Limited free tier"],
-    "best_for": ["SDRs", "Sales reps", "Outbound teams"],
+    "features": [
+      "Email scoring",
+      "AI suggestions",
+      "Personalization",
+      "Analytics",
+      "Integrations"
+    ],
+    "pros": [
+      "Improves response rates",
+      "Easy to use",
+      "Good coaching"
+    ],
+    "cons": [
+      "Sales email focus only",
+      "Limited free tier"
+    ],
+    "best_for": [
+      "SDRs",
+      "Sales reps",
+      "Outbound teams"
+    ],
     "rating": 4.4,
     "popularity_score": 55,
-    "tags": ["sales", "email", "writing", "outreach"],
+    "tags": [
+      "sales",
+      "email",
+      "writing",
+      "outreach"
+    ],
     "api_available": false,
     "launched": "2020-01-01"
   },
@@ -1318,13 +2474,36 @@
       "billing_cycle": "monthly",
       "details": "Starter at $18/mo"
     },
-    "features": ["AI avatars", "140+ languages", "Custom avatars", "Templates", "Screen recording"],
-    "pros": ["Professional quality", "Many avatars", "Multi-language"],
-    "cons": ["No free tier", "Avatar limitations", "Uncanny valley sometimes"],
-    "best_for": ["Corporate training", "Marketing videos", "E-learning"],
+    "features": [
+      "AI avatars",
+      "140+ languages",
+      "Custom avatars",
+      "Templates",
+      "Screen recording"
+    ],
+    "pros": [
+      "Professional quality",
+      "Many avatars",
+      "Multi-language"
+    ],
+    "cons": [
+      "No free tier",
+      "Avatar limitations",
+      "Uncanny valley sometimes"
+    ],
+    "best_for": [
+      "Corporate training",
+      "Marketing videos",
+      "E-learning"
+    ],
     "rating": 4.3,
     "popularity_score": 68,
-    "tags": ["video", "avatars", "training", "corporate"],
+    "tags": [
+      "video",
+      "avatars",
+      "training",
+      "corporate"
+    ],
     "api_available": true,
     "launched": "2017-01-01"
   },
@@ -1343,13 +2522,35 @@
       "billing_cycle": "monthly",
       "details": "Free credits, Creator at $24/mo"
     },
-    "features": ["AI avatars", "Video translation", "Custom avatars", "Templates", "API access"],
-    "pros": ["Good quality", "Video translation is unique", "Affordable"],
-    "cons": ["Credits run out", "Avatar quality varies"],
-    "best_for": ["Marketing teams", "Global companies", "Content creators"],
+    "features": [
+      "AI avatars",
+      "Video translation",
+      "Custom avatars",
+      "Templates",
+      "API access"
+    ],
+    "pros": [
+      "Good quality",
+      "Video translation is unique",
+      "Affordable"
+    ],
+    "cons": [
+      "Credits run out",
+      "Avatar quality varies"
+    ],
+    "best_for": [
+      "Marketing teams",
+      "Global companies",
+      "Content creators"
+    ],
     "rating": 4.2,
     "popularity_score": 62,
-    "tags": ["video", "avatars", "translation", "marketing"],
+    "tags": [
+      "video",
+      "avatars",
+      "translation",
+      "marketing"
+    ],
     "api_available": true,
     "launched": "2020-01-01"
   },
@@ -1368,13 +2569,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Standard at $23.99/mo"
     },
-    "features": ["Text-to-video", "Image-to-video", "3D capture", "Camera motion", "High quality"],
-    "pros": ["Impressive quality", "3D capabilities", "Fast generation"],
-    "cons": ["Newer product", "Limited customization"],
-    "best_for": ["Video creators", "3D artists", "Marketing"],
+    "features": [
+      "Text-to-video",
+      "Image-to-video",
+      "3D capture",
+      "Camera motion",
+      "High quality"
+    ],
+    "pros": [
+      "Impressive quality",
+      "3D capabilities",
+      "Fast generation"
+    ],
+    "cons": [
+      "Newer product",
+      "Limited customization"
+    ],
+    "best_for": [
+      "Video creators",
+      "3D artists",
+      "Marketing"
+    ],
     "rating": 4.3,
     "popularity_score": 58,
-    "tags": ["video", "3d", "creative", "ai-video"],
+    "tags": [
+      "video",
+      "3d",
+      "creative",
+      "ai-video"
+    ],
     "api_available": true,
     "launched": "2022-01-01"
   },
@@ -1393,13 +2616,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Hobby at $19/mo"
     },
-    "features": ["Custom training", "Website embed", "API access", "Analytics", "Lead capture"],
-    "pros": ["Easy to set up", "Trains on your docs", "Good analytics"],
-    "cons": ["Limited free tier", "Basic customization"],
-    "best_for": ["Customer support", "Documentation", "Small businesses"],
+    "features": [
+      "Custom training",
+      "Website embed",
+      "API access",
+      "Analytics",
+      "Lead capture"
+    ],
+    "pros": [
+      "Easy to set up",
+      "Trains on your docs",
+      "Good analytics"
+    ],
+    "cons": [
+      "Limited free tier",
+      "Basic customization"
+    ],
+    "best_for": [
+      "Customer support",
+      "Documentation",
+      "Small businesses"
+    ],
     "rating": 4.2,
     "popularity_score": 55,
-    "tags": ["chatbot", "customer-support", "website", "no-code"],
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "website",
+      "no-code"
+    ],
     "api_available": true,
     "launched": "2023-01-01"
   },
@@ -1418,13 +2663,35 @@
       "billing_cycle": "per-resolution",
       "details": "$0.99 per resolution, requires Intercom subscription"
     },
-    "features": ["AI resolution", "Knowledge base learning", "Handoff to human", "Multi-language", "Omnichannel"],
-    "pros": ["High resolution rate", "Native Intercom integration", "Learns from data"],
-    "cons": ["Requires Intercom", "Per-resolution cost adds up"],
-    "best_for": ["Intercom users", "SaaS companies", "Support teams"],
+    "features": [
+      "AI resolution",
+      "Knowledge base learning",
+      "Handoff to human",
+      "Multi-language",
+      "Omnichannel"
+    ],
+    "pros": [
+      "High resolution rate",
+      "Native Intercom integration",
+      "Learns from data"
+    ],
+    "cons": [
+      "Requires Intercom",
+      "Per-resolution cost adds up"
+    ],
+    "best_for": [
+      "Intercom users",
+      "SaaS companies",
+      "Support teams"
+    ],
     "rating": 4.4,
     "popularity_score": 68,
-    "tags": ["chatbot", "customer-support", "intercom", "resolution"],
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "intercom",
+      "resolution"
+    ],
     "api_available": true,
     "launched": "2023-03-01"
   },
@@ -1443,13 +2710,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Starter at $29/mo"
     },
-    "features": ["Lyro AI chatbot", "Live chat", "Email integration", "Visitor tracking", "Automations"],
-    "pros": ["Good free tier", "Easy setup", "Affordable AI"],
-    "cons": ["AI conversations limited", "E-commerce focus"],
-    "best_for": ["E-commerce", "Small businesses", "Shopify stores"],
+    "features": [
+      "Lyro AI chatbot",
+      "Live chat",
+      "Email integration",
+      "Visitor tracking",
+      "Automations"
+    ],
+    "pros": [
+      "Good free tier",
+      "Easy setup",
+      "Affordable AI"
+    ],
+    "cons": [
+      "AI conversations limited",
+      "E-commerce focus"
+    ],
+    "best_for": [
+      "E-commerce",
+      "Small businesses",
+      "Shopify stores"
+    ],
     "rating": 4.3,
     "popularity_score": 62,
-    "tags": ["chatbot", "customer-support", "e-commerce", "live-chat"],
+    "tags": [
+      "chatbot",
+      "customer-support",
+      "e-commerce",
+      "live-chat"
+    ],
     "api_available": true,
     "launched": "2013-01-01"
   },
@@ -1468,13 +2757,35 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Pro at $20/mo"
     },
-    "features": ["Data chat", "Visualizations", "File upload", "Python code", "Export options"],
-    "pros": ["Easy data analysis", "Good visualizations", "No coding needed"],
-    "cons": ["Limited on free", "Large files slow"],
-    "best_for": ["Data analysts", "Business users", "Researchers"],
+    "features": [
+      "Data chat",
+      "Visualizations",
+      "File upload",
+      "Python code",
+      "Export options"
+    ],
+    "pros": [
+      "Easy data analysis",
+      "Good visualizations",
+      "No coding needed"
+    ],
+    "cons": [
+      "Limited on free",
+      "Large files slow"
+    ],
+    "best_for": [
+      "Data analysts",
+      "Business users",
+      "Researchers"
+    ],
     "rating": 4.3,
     "popularity_score": 52,
-    "tags": ["data-analysis", "visualization", "chat", "no-code"],
+    "tags": [
+      "data-analysis",
+      "visualization",
+      "chat",
+      "no-code"
+    ],
     "api_available": false,
     "launched": "2023-01-01"
   },
@@ -1493,13 +2804,35 @@
       "billing_cycle": "monthly",
       "details": "Starter at $75/mo"
     },
-    "features": ["Predictive models", "No-code ML", "Integrations", "Real-time predictions", "Explanations"],
-    "pros": ["Easy ML without code", "Quick setup", "Good explanations"],
-    "cons": ["Expensive", "Limited customization"],
-    "best_for": ["Business analysts", "Marketing teams", "Non-technical users"],
+    "features": [
+      "Predictive models",
+      "No-code ML",
+      "Integrations",
+      "Real-time predictions",
+      "Explanations"
+    ],
+    "pros": [
+      "Easy ML without code",
+      "Quick setup",
+      "Good explanations"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited customization"
+    ],
+    "best_for": [
+      "Business analysts",
+      "Marketing teams",
+      "Non-technical users"
+    ],
     "rating": 4.1,
     "popularity_score": 42,
-    "tags": ["data-analysis", "machine-learning", "no-code", "predictions"],
+    "tags": [
+      "data-analysis",
+      "machine-learning",
+      "no-code",
+      "predictions"
+    ],
     "api_available": true,
     "launched": "2020-01-01"
   },
@@ -1518,14 +2851,1025 @@
       "billing_cycle": "monthly",
       "details": "Free tier, Team at custom pricing"
     },
-    "features": ["SQL + Python", "AI assistance", "Visualizations", "Apps", "Collaboration"],
-    "pros": ["Powerful for analysts", "Great collaboration", "AI helps coding"],
-    "cons": ["Requires SQL/Python knowledge", "Enterprise pricing opaque"],
-    "best_for": ["Data teams", "Analytics engineers", "Technical analysts"],
+    "features": [
+      "SQL + Python",
+      "AI assistance",
+      "Visualizations",
+      "Apps",
+      "Collaboration"
+    ],
+    "pros": [
+      "Powerful for analysts",
+      "Great collaboration",
+      "AI helps coding"
+    ],
+    "cons": [
+      "Requires SQL/Python knowledge",
+      "Enterprise pricing opaque"
+    ],
+    "best_for": [
+      "Data teams",
+      "Analytics engineers",
+      "Technical analysts"
+    ],
     "rating": 4.5,
     "popularity_score": 55,
-    "tags": ["data-analysis", "collaboration", "sql", "python"],
+    "tags": [
+      "data-analysis",
+      "collaboration",
+      "sql",
+      "python"
+    ],
     "api_available": true,
     "launched": "2019-01-01"
+  },
+  {
+    "slug": "fireflies",
+    "name": "Fireflies.ai",
+    "description": "AI meeting assistant that records, transcribes, and summarizes meetings automatically.",
+    "category": "AI Productivity",
+    "company": "Fireflies",
+    "website": "https://fireflies.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 18,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Auto transcription",
+      "Meeting summaries",
+      "Action items",
+      "CRM integration"
+    ],
+    "pros": [
+      "Accurate transcription",
+      "Great summaries",
+      "Integrations"
+    ],
+    "cons": [
+      "Privacy concerns",
+      "Needs good audio"
+    ],
+    "best_for": [
+      "Sales teams",
+      "Meetings",
+      "Documentation"
+    ],
+    "rating": 4.4,
+    "popularity_score": 79,
+    "tags": [
+      "meetings",
+      "transcription",
+      "productivity"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "otter",
+    "name": "Otter.ai",
+    "description": "AI-powered meeting transcription and note-taking assistant for teams.",
+    "category": "AI Productivity",
+    "company": "Otter.ai",
+    "website": "https://otter.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 16.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Live transcription",
+      "Speaker ID",
+      "Summaries",
+      "Integrations"
+    ],
+    "pros": [
+      "Real-time transcription",
+      "Good accuracy",
+      "Generous free tier"
+    ],
+    "cons": [
+      "English only",
+      "Needs clear audio"
+    ],
+    "best_for": [
+      "Students",
+      "Journalists",
+      "Business meetings"
+    ],
+    "rating": 4.3,
+    "popularity_score": 81,
+    "tags": [
+      "transcription",
+      "meetings",
+      "notes"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "tome",
+    "name": "Tome",
+    "description": "AI-powered presentation and storytelling tool that generates slides from prompts.",
+    "category": "AI Productivity",
+    "company": "Tome",
+    "website": "https://tome.app",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 16,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "AI slide generation",
+      "DALL-E integration",
+      "Templates",
+      "Collaboration"
+    ],
+    "pros": [
+      "Fast creation",
+      "Beautiful designs",
+      "AI images included"
+    ],
+    "cons": [
+      "Limited customization",
+      "Export limitations"
+    ],
+    "best_for": [
+      "Quick presentations",
+      "Pitches",
+      "Storytelling"
+    ],
+    "rating": 4.2,
+    "popularity_score": 74,
+    "tags": [
+      "presentations",
+      "slides",
+      "storytelling"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "beautiful-ai",
+    "name": "Beautiful.ai",
+    "description": "AI presentation software that automatically designs slides as you add content.",
+    "category": "AI Design",
+    "company": "Beautiful.ai",
+    "website": "https://beautiful.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 12,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Smart templates",
+      "Auto-design",
+      "Team collaboration",
+      "Brand kit"
+    ],
+    "pros": [
+      "Always looks good",
+      "Easy to use",
+      "Time saver"
+    ],
+    "cons": [
+      "Less flexibility",
+      "Limited export formats"
+    ],
+    "best_for": [
+      "Business presentations",
+      "Non-designers",
+      "Teams"
+    ],
+    "rating": 4.4,
+    "popularity_score": 76,
+    "tags": [
+      "presentations",
+      "design",
+      "slides"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "lumen5",
+    "name": "Lumen5",
+    "description": "AI video creation platform that turns blog posts and articles into engaging videos.",
+    "category": "Video Generation",
+    "company": "Lumen5",
+    "website": "https://lumen5.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 29,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Blog to video",
+      "Stock media",
+      "Templates",
+      "Brand kit"
+    ],
+    "pros": [
+      "Easy content repurposing",
+      "Good for beginners",
+      "Stock library"
+    ],
+    "cons": [
+      "Watermark on free",
+      "Limited customization"
+    ],
+    "best_for": [
+      "Content marketers",
+      "Social media",
+      "Repurposing"
+    ],
+    "rating": 4.1,
+    "popularity_score": 71,
+    "tags": [
+      "video",
+      "content",
+      "social"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "pictory",
+    "name": "Pictory",
+    "description": "AI video generator that creates short videos from long-form content automatically.",
+    "category": "Video Generation",
+    "company": "Pictory",
+    "website": "https://pictory.ai",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 23,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Text to video",
+      "Auto captions",
+      "Stock footage",
+      "Blog to video"
+    ],
+    "pros": [
+      "Great for repurposing",
+      "Auto highlights",
+      "Easy to use"
+    ],
+    "cons": [
+      "No free tier",
+      "Quality varies"
+    ],
+    "best_for": [
+      "YouTubers",
+      "Marketers",
+      "Content creators"
+    ],
+    "rating": 4.2,
+    "popularity_score": 69,
+    "tags": [
+      "video",
+      "content",
+      "youtube"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "invideo",
+    "name": "InVideo",
+    "description": "Online video editor with AI features for creating marketing and social media videos.",
+    "category": "Video Generation",
+    "company": "InVideo",
+    "website": "https://invideo.io",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 25,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "5000+ templates",
+      "Stock library",
+      "Text to video",
+      "AI script"
+    ],
+    "pros": [
+      "Many templates",
+      "Affordable",
+      "Easy to use"
+    ],
+    "cons": [
+      "Watermark on free",
+      "Can be slow"
+    ],
+    "best_for": [
+      "Social media",
+      "Ads",
+      "Marketing videos"
+    ],
+    "rating": 4.3,
+    "popularity_score": 77,
+    "tags": [
+      "video",
+      "social",
+      "marketing"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "leonardo",
+    "name": "Leonardo.AI",
+    "description": "AI image generation platform focused on game assets, concept art, and creative design.",
+    "category": "Image Generation",
+    "company": "Leonardo.AI",
+    "website": "https://leonardo.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 12,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Custom models",
+      "Canvas editor",
+      "Real-time generation",
+      "API"
+    ],
+    "pros": [
+      "Great for game art",
+      "Good free tier",
+      "Custom training"
+    ],
+    "cons": [
+      "Learning curve",
+      "Queue times"
+    ],
+    "best_for": [
+      "Game developers",
+      "Artists",
+      "Concept design"
+    ],
+    "rating": 4.5,
+    "popularity_score": 83,
+    "tags": [
+      "image",
+      "art",
+      "gaming"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "playground",
+    "name": "Playground AI",
+    "description": "Free AI image generator with a focus on ease of use and creative control.",
+    "category": "Image Generation",
+    "company": "Playground AI",
+    "website": "https://playground.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 15,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Mixed image editing",
+      "Filters",
+      "Canvas",
+      "Community"
+    ],
+    "pros": [
+      "Generous free tier",
+      "Easy to use",
+      "Good community"
+    ],
+    "cons": [
+      "Less powerful",
+      "Limited commercial use"
+    ],
+    "best_for": [
+      "Beginners",
+      "Hobbyists",
+      "Quick edits"
+    ],
+    "rating": 4.2,
+    "popularity_score": 72,
+    "tags": [
+      "image",
+      "free",
+      "creative"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "brandmark",
+    "name": "Brandmark",
+    "description": "AI logo maker that generates unique logo designs based on your brand name and style.",
+    "category": "AI Design",
+    "company": "Brandmark",
+    "website": "https://brandmark.io",
+    "pricing": {
+      "model": "one-time",
+      "free_tier": false,
+      "starting_price": 25,
+      "currency": "USD",
+      "billing_cycle": "one-time"
+    },
+    "features": [
+      "AI logo generation",
+      "Color palettes",
+      "Font pairing",
+      "Brand guide"
+    ],
+    "pros": [
+      "Unique designs",
+      "Full ownership",
+      "One-time payment"
+    ],
+    "cons": [
+      "No free tier",
+      "Limited revisions"
+    ],
+    "best_for": [
+      "Startups",
+      "Small businesses",
+      "Side projects"
+    ],
+    "rating": 4.3,
+    "popularity_score": 71,
+    "tags": [
+      "logo",
+      "branding",
+      "design"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "looka",
+    "name": "Looka",
+    "description": "AI-powered logo maker and brand identity platform for businesses.",
+    "category": "AI Design",
+    "company": "Looka",
+    "website": "https://looka.com",
+    "pricing": {
+      "model": "one-time",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "one-time"
+    },
+    "features": [
+      "Logo generator",
+      "Brand kit",
+      "Social media kit",
+      "Business cards"
+    ],
+    "pros": [
+      "Easy to use",
+      "Full brand kit",
+      "Affordable"
+    ],
+    "cons": [
+      "Designs can be generic",
+      "Limited customization"
+    ],
+    "best_for": [
+      "Small businesses",
+      "Entrepreneurs",
+      "Quick branding"
+    ],
+    "rating": 4.2,
+    "popularity_score": 74,
+    "tags": [
+      "logo",
+      "branding",
+      "design"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "amazon-codewhisperer",
+    "name": "Amazon CodeWhisperer",
+    "description": "AWS AI coding assistant with security scanning and AWS integration.",
+    "category": "AI Coding",
+    "company": "Amazon",
+    "website": "https://aws.amazon.com/codewhisperer",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 19,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Code suggestions",
+      "Security scans",
+      "AWS integration",
+      "Reference tracking"
+    ],
+    "pros": [
+      "Free for individuals",
+      "Security focus",
+      "AWS integration"
+    ],
+    "cons": [
+      "AWS-biased",
+      "Limited IDE support"
+    ],
+    "best_for": [
+      "AWS developers",
+      "Enterprise",
+      "Security-focused teams"
+    ],
+    "rating": 4.2,
+    "popularity_score": 73,
+    "tags": [
+      "coding",
+      "aws",
+      "security"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "replit-ai",
+    "name": "Replit AI",
+    "description": "AI coding assistant built into Replit's browser-based IDE.",
+    "category": "AI Coding",
+    "company": "Replit",
+    "website": "https://replit.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Code completion",
+      "Chat",
+      "Debugging",
+      "Deployment"
+    ],
+    "pros": [
+      "All-in-one platform",
+      "No setup",
+      "Collaboration"
+    ],
+    "cons": [
+      "Browser-only",
+      "Resource limits"
+    ],
+    "best_for": [
+      "Beginners",
+      "Students",
+      "Quick prototyping"
+    ],
+    "rating": 4.3,
+    "popularity_score": 78,
+    "tags": [
+      "coding",
+      "browser",
+      "learning"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "pieces",
+    "name": "Pieces",
+    "description": "AI-powered code snippet manager and developer productivity tool.",
+    "category": "AI Coding",
+    "company": "Pieces",
+    "website": "https://pieces.app",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Snippet management",
+      "Context awareness",
+      "Search",
+      "IDE integration"
+    ],
+    "pros": [
+      "Great organization",
+      "Fast search",
+      "Offline capable"
+    ],
+    "cons": [
+      "Learning curve",
+      "New product"
+    ],
+    "best_for": [
+      "Developers",
+      "Code organization",
+      "Documentation"
+    ],
+    "rating": 4.2,
+    "popularity_score": 65,
+    "tags": [
+      "coding",
+      "snippets",
+      "productivity"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "phind",
+    "name": "Phind",
+    "description": "AI search engine and coding assistant built for developers.",
+    "category": "AI Coding",
+    "company": "Phind",
+    "website": "https://phind.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Code search",
+      "AI answers",
+      "Source citations",
+      "VS Code extension"
+    ],
+    "pros": [
+      "Great for research",
+      "Cites sources",
+      "Fast"
+    ],
+    "cons": [
+      "Sometimes outdated",
+      "Limited context"
+    ],
+    "best_for": [
+      "Research",
+      "Learning",
+      "Debugging"
+    ],
+    "rating": 4.4,
+    "popularity_score": 77,
+    "tags": [
+      "search",
+      "coding",
+      "research"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "huggingface",
+    "name": "Hugging Face",
+    "description": "Platform for sharing and deploying machine learning models with a massive model hub.",
+    "category": "AI Research",
+    "company": "Hugging Face",
+    "website": "https://huggingface.co",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 9,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Model hub",
+      "Inference API",
+      "Spaces",
+      "Datasets"
+    ],
+    "pros": [
+      "Huge model library",
+      "Great community",
+      "Free hosting"
+    ],
+    "cons": [
+      "Technical knowledge needed",
+      "Can be slow"
+    ],
+    "best_for": [
+      "ML engineers",
+      "Researchers",
+      "Developers"
+    ],
+    "rating": 4.7,
+    "popularity_score": 92,
+    "tags": [
+      "ml",
+      "models",
+      "research"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "replicate",
+    "name": "Replicate",
+    "description": "Platform for running open-source AI models in the cloud with simple API.",
+    "category": "AI Research",
+    "company": "Replicate",
+    "website": "https://replicate.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Run any model",
+      "Simple API",
+      "Auto-scaling",
+      "Model hosting"
+    ],
+    "pros": [
+      "Easy to use",
+      "Pay per use",
+      "Many models"
+    ],
+    "cons": [
+      "Can get expensive",
+      "Cold starts"
+    ],
+    "best_for": [
+      "Developers",
+      "Prototyping",
+      "Production apps"
+    ],
+    "rating": 4.5,
+    "popularity_score": 81,
+    "tags": [
+      "api",
+      "models",
+      "cloud"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "together-ai",
+    "name": "Together AI",
+    "description": "Cloud platform for running and fine-tuning open-source LLMs at scale.",
+    "category": "AI Research",
+    "company": "Together AI",
+    "website": "https://together.ai",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "LLM inference",
+      "Fine-tuning",
+      "Fast inference",
+      "Open models"
+    ],
+    "pros": [
+      "Fast",
+      "Affordable",
+      "Open source focus"
+    ],
+    "cons": [
+      "Limited models",
+      "Technical setup"
+    ],
+    "best_for": [
+      "Developers",
+      "Startups",
+      "AI applications"
+    ],
+    "rating": 4.4,
+    "popularity_score": 76,
+    "tags": [
+      "llm",
+      "api",
+      "inference"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "scale-ai",
+    "name": "Scale AI",
+    "description": "Data labeling and AI training platform for enterprise machine learning teams.",
+    "category": "AI Data Analysis",
+    "company": "Scale AI",
+    "website": "https://scale.com",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Data labeling",
+      "Model evaluation",
+      "Generative AI",
+      "Enterprise"
+    ],
+    "pros": [
+      "High quality",
+      "Enterprise-ready",
+      "Full service"
+    ],
+    "cons": [
+      "Expensive",
+      "Enterprise-focused"
+    ],
+    "best_for": [
+      "Enterprise",
+      "ML teams",
+      "Large datasets"
+    ],
+    "rating": 4.5,
+    "popularity_score": 79,
+    "tags": [
+      "data",
+      "labeling",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "deepl",
+    "name": "DeepL",
+    "description": "AI-powered translation tool known for high-quality, natural-sounding translations.",
+    "category": "AI Productivity",
+    "company": "DeepL",
+    "website": "https://deepl.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 8.74,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "30+ languages",
+      "Document translation",
+      "API",
+      "Glossaries"
+    ],
+    "pros": [
+      "Best quality translations",
+      "Fast",
+      "Good API"
+    ],
+    "cons": [
+      "Limited free tier",
+      "Some language pairs weak"
+    ],
+    "best_for": [
+      "Translators",
+      "International business",
+      "Content localization"
+    ],
+    "rating": 4.8,
+    "popularity_score": 91,
+    "tags": [
+      "translation",
+      "language",
+      "productivity"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "wordtune",
+    "name": "Wordtune",
+    "description": "AI writing companion that helps rewrite and rephrase sentences for clarity.",
+    "category": "AI Writing",
+    "company": "AI21 Labs",
+    "website": "https://wordtune.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Rewrite suggestions",
+      "Tone adjustment",
+      "Summarizer",
+      "Browser extension"
+    ],
+    "pros": [
+      "Natural suggestions",
+      "Easy to use",
+      "Good free tier"
+    ],
+    "cons": [
+      "English only",
+      "Limited features"
+    ],
+    "best_for": [
+      "Non-native speakers",
+      "Professionals",
+      "Email writing"
+    ],
+    "rating": 4.2,
+    "popularity_score": 74,
+    "tags": [
+      "writing",
+      "rewriting",
+      "clarity"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "krisp",
+    "name": "Krisp",
+    "description": "AI noise cancellation app that removes background noise from calls.",
+    "category": "AI Audio",
+    "company": "Krisp",
+    "website": "https://krisp.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 8,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Noise cancellation",
+      "Echo removal",
+      "Meeting transcription",
+      "All apps"
+    ],
+    "pros": [
+      "Excellent noise removal",
+      "Works with any app",
+      "Easy setup"
+    ],
+    "cons": [
+      "Uses CPU",
+      "Limited free minutes"
+    ],
+    "best_for": [
+      "Remote workers",
+      "Call centers",
+      "Podcasters"
+    ],
+    "rating": 4.5,
+    "popularity_score": 80,
+    "tags": [
+      "audio",
+      "noise",
+      "meetings"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "lalal-ai",
+    "name": "LALAL.AI",
+    "description": "AI audio splitter that separates vocals, drums, and instruments from songs.",
+    "category": "AI Audio",
+    "company": "LALAL.AI",
+    "website": "https://lalal.ai",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 15,
+      "currency": "USD",
+      "billing_cycle": "one-time"
+    },
+    "features": [
+      "Stem separation",
+      "10 stem types",
+      "High quality",
+      "Batch processing"
+    ],
+    "pros": [
+      "Excellent separation",
+      "Easy to use",
+      "Good quality"
+    ],
+    "cons": [
+      "Pay per minute",
+      "Limited free tier"
+    ],
+    "best_for": [
+      "Music producers",
+      "DJs",
+      "Content creators"
+    ],
+    "rating": 4.4,
+    "popularity_score": 76,
+    "tags": [
+      "audio",
+      "music",
+      "separation"
+    ],
+    "api_available": true
   }
 ]
