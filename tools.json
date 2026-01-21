@@ -3871,5 +3871,1572 @@
       "separation"
     ],
     "api_available": true
+  },
+  {
+    "slug": "anthropic-api",
+    "name": "Anthropic API",
+    "description": "Access Claude models via API for building AI applications with advanced reasoning capabilities.",
+    "category": "LLM & Chatbots",
+    "company": "Anthropic",
+    "website": "https://anthropic.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": false,
+      "starting_price": 0.008,
+      "currency": "USD",
+      "billing_cycle": "per 1K tokens"
+    },
+    "features": [
+      "Claude 3.5 Sonnet",
+      "Claude 3 Opus",
+      "Function calling",
+      "Vision"
+    ],
+    "rating": 4.8,
+    "popularity_score": 90,
+    "tags": [
+      "api",
+      "llm",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "openai-api",
+    "name": "OpenAI API",
+    "description": "Access GPT-4, DALL-E, Whisper and other OpenAI models via API.",
+    "category": "LLM & Chatbots",
+    "company": "OpenAI",
+    "website": "https://platform.openai.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": false,
+      "starting_price": 0.002,
+      "currency": "USD",
+      "billing_cycle": "per 1K tokens"
+    },
+    "features": [
+      "GPT-4",
+      "DALL-E 3",
+      "Whisper",
+      "Embeddings",
+      "Fine-tuning"
+    ],
+    "rating": 4.7,
+    "popularity_score": 95,
+    "tags": [
+      "api",
+      "llm",
+      "gpt"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "groq",
+    "name": "Groq",
+    "description": "Ultra-fast LLM inference platform with the fastest AI inference speeds available.",
+    "category": "LLM & Chatbots",
+    "company": "Groq",
+    "website": "https://groq.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Fastest inference",
+      "Llama models",
+      "Mixtral",
+      "Free tier"
+    ],
+    "rating": 4.6,
+    "popularity_score": 82,
+    "tags": [
+      "fast",
+      "inference",
+      "llm"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "cohere",
+    "name": "Cohere",
+    "description": "Enterprise AI platform for text generation, search, and embeddings.",
+    "category": "LLM & Chatbots",
+    "company": "Cohere",
+    "website": "https://cohere.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 1,
+      "currency": "USD",
+      "billing_cycle": "per 1M tokens"
+    },
+    "features": [
+      "Command models",
+      "Embed",
+      "Rerank",
+      "RAG"
+    ],
+    "rating": 4.4,
+    "popularity_score": 75,
+    "tags": [
+      "enterprise",
+      "embeddings",
+      "search"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "recraft",
+    "name": "Recraft",
+    "description": "AI design tool for creating vector graphics, illustrations, and icons.",
+    "category": "AI Design",
+    "company": "Recraft",
+    "website": "https://recraft.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Vector graphics",
+      "Illustrations",
+      "Icons",
+      "Style consistency"
+    ],
+    "rating": 4.5,
+    "popularity_score": 72,
+    "tags": [
+      "design",
+      "vector",
+      "icons"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "krea",
+    "name": "Krea AI",
+    "description": "Real-time AI image generation with live canvas and creative tools.",
+    "category": "Image Generation",
+    "company": "Krea",
+    "website": "https://krea.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Real-time generation",
+      "Canvas",
+      "Upscaling",
+      "Patterns"
+    ],
+    "rating": 4.4,
+    "popularity_score": 70,
+    "tags": [
+      "realtime",
+      "canvas",
+      "creative"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "kling",
+    "name": "Kling AI",
+    "description": "Advanced AI video generation with high-quality cinematic outputs.",
+    "category": "Video Generation",
+    "company": "Kuaishou",
+    "website": "https://klingai.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 5,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Long videos",
+      "High quality",
+      "Motion control",
+      "Lip sync"
+    ],
+    "rating": 4.4,
+    "popularity_score": 78,
+    "tags": [
+      "video",
+      "cinematic",
+      "quality"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "luma-dream-machine",
+    "name": "Luma Dream Machine",
+    "description": "AI video generation that creates realistic videos from text and images.",
+    "category": "Video Generation",
+    "company": "Luma AI",
+    "website": "https://lumalabs.ai/dream-machine",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 24,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Text to video",
+      "Image to video",
+      "Realistic motion",
+      "5 sec clips"
+    ],
+    "rating": 4.5,
+    "popularity_score": 81,
+    "tags": [
+      "video",
+      "realistic",
+      "motion"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "minimax",
+    "name": "MiniMax",
+    "description": "Chinese AI company offering video generation and multimodal AI models.",
+    "category": "Video Generation",
+    "company": "MiniMax",
+    "website": "https://minimaxi.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Video generation",
+      "Music video",
+      "Long form",
+      "API"
+    ],
+    "rating": 4.3,
+    "popularity_score": 70,
+    "tags": [
+      "video",
+      "chinese",
+      "multimodal"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "soundraw",
+    "name": "Soundraw",
+    "description": "AI music generation for creators with royalty-free tracks.",
+    "category": "AI Audio",
+    "company": "Soundraw",
+    "website": "https://soundraw.io",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 16.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Royalty-free",
+      "Custom length",
+      "Multiple genres",
+      "Stems"
+    ],
+    "rating": 4.3,
+    "popularity_score": 74,
+    "tags": [
+      "music",
+      "royalty-free",
+      "creators"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "aiva",
+    "name": "AIVA",
+    "description": "AI composer that creates emotional soundtrack music for various media.",
+    "category": "AI Audio",
+    "company": "AIVA",
+    "website": "https://aiva.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 15,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Emotional music",
+      "Film scores",
+      "Game music",
+      "Orchestral"
+    ],
+    "rating": 4.2,
+    "popularity_score": 68,
+    "tags": [
+      "music",
+      "composer",
+      "soundtrack"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "beatoven",
+    "name": "Beatoven.ai",
+    "description": "AI music generator that creates custom royalty-free music for videos.",
+    "category": "AI Audio",
+    "company": "Beatoven.ai",
+    "website": "https://beatoven.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Custom music",
+      "Mood-based",
+      "Video sync",
+      "Royalty-free"
+    ],
+    "rating": 4.1,
+    "popularity_score": 65,
+    "tags": [
+      "music",
+      "video",
+      "royalty-free"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "assemblyai",
+    "name": "AssemblyAI",
+    "description": "Speech-to-text API with advanced features like speaker diarization and content moderation.",
+    "category": "AI Audio",
+    "company": "AssemblyAI",
+    "website": "https://assemblyai.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0.37,
+      "currency": "USD",
+      "billing_cycle": "per hour"
+    },
+    "features": [
+      "Transcription",
+      "Speaker labels",
+      "Summarization",
+      "Sentiment"
+    ],
+    "rating": 4.6,
+    "popularity_score": 82,
+    "tags": [
+      "transcription",
+      "speech",
+      "api"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "deepgram",
+    "name": "Deepgram",
+    "description": "Fast and accurate speech recognition API for developers.",
+    "category": "AI Audio",
+    "company": "Deepgram",
+    "website": "https://deepgram.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0.25,
+      "currency": "USD",
+      "billing_cycle": "per hour"
+    },
+    "features": [
+      "Real-time",
+      "High accuracy",
+      "Multiple languages",
+      "Custom models"
+    ],
+    "rating": 4.5,
+    "popularity_score": 78,
+    "tags": [
+      "speech",
+      "recognition",
+      "api"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "rev-ai",
+    "name": "Rev AI",
+    "description": "Speech-to-text API from Rev with high accuracy transcription.",
+    "category": "AI Audio",
+    "company": "Rev",
+    "website": "https://rev.ai",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0.02,
+      "currency": "USD",
+      "billing_cycle": "per minute"
+    },
+    "features": [
+      "Transcription",
+      "Captions",
+      "Multiple languages",
+      "Fast turnaround"
+    ],
+    "rating": 4.4,
+    "popularity_score": 75,
+    "tags": [
+      "transcription",
+      "captions",
+      "api"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "supermaven",
+    "name": "Supermaven",
+    "description": "Fast AI code completion with 1 million token context window.",
+    "category": "AI Coding",
+    "company": "Supermaven",
+    "website": "https://supermaven.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "300K context",
+      "Fast completion",
+      "Multi-file",
+      "VS Code"
+    ],
+    "rating": 4.5,
+    "popularity_score": 76,
+    "tags": [
+      "coding",
+      "autocomplete",
+      "fast"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "sourcegraph-cody",
+    "name": "Sourcegraph Cody",
+    "description": "AI coding assistant with full codebase context and understanding.",
+    "category": "AI Coding",
+    "company": "Sourcegraph",
+    "website": "https://sourcegraph.com/cody",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 9,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Codebase context",
+      "Autocomplete",
+      "Chat",
+      "Multi-repo"
+    ],
+    "rating": 4.4,
+    "popularity_score": 74,
+    "tags": [
+      "coding",
+      "context",
+      "enterprise"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "continue",
+    "name": "Continue",
+    "description": "Open-source AI code assistant that connects to any LLM.",
+    "category": "AI Coding",
+    "company": "Continue",
+    "website": "https://continue.dev",
+    "pricing": {
+      "model": "free",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "free"
+    },
+    "features": [
+      "Open source",
+      "Any LLM",
+      "VS Code",
+      "JetBrains"
+    ],
+    "rating": 4.3,
+    "popularity_score": 70,
+    "tags": [
+      "coding",
+      "open-source",
+      "free"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "codium",
+    "name": "Codium AI",
+    "description": "AI-powered code integrity tool that generates meaningful tests.",
+    "category": "AI Coding",
+    "company": "Codium AI",
+    "website": "https://codium.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 19,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Test generation",
+      "Code analysis",
+      "PR review",
+      "VS Code"
+    ],
+    "rating": 4.3,
+    "popularity_score": 71,
+    "tags": [
+      "testing",
+      "code-review",
+      "quality"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "bolt",
+    "name": "Bolt.new",
+    "description": "AI-powered full-stack web development in the browser.",
+    "category": "AI Coding",
+    "company": "StackBlitz",
+    "website": "https://bolt.new",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Full-stack",
+      "Browser-based",
+      "Deploy",
+      "Node.js"
+    ],
+    "rating": 4.5,
+    "popularity_score": 82,
+    "tags": [
+      "fullstack",
+      "web",
+      "browser"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "lovable",
+    "name": "Lovable",
+    "description": "AI software engineer that builds full applications from descriptions.",
+    "category": "AI Coding",
+    "company": "Lovable",
+    "website": "https://lovable.dev",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Full apps",
+      "Supabase",
+      "Deployment",
+      "Git sync"
+    ],
+    "rating": 4.4,
+    "popularity_score": 78,
+    "tags": [
+      "apps",
+      "fullstack",
+      "nocode"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "wordware",
+    "name": "Wordware",
+    "description": "IDE for building AI agents and applications with natural language.",
+    "category": "AI Automation",
+    "company": "Wordware",
+    "website": "https://wordware.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 50,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "AI agents",
+      "Natural language",
+      "Loops",
+      "Tools"
+    ],
+    "rating": 4.3,
+    "popularity_score": 68,
+    "tags": [
+      "agents",
+      "automation",
+      "nocode"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "langchain",
+    "name": "LangChain",
+    "description": "Framework for building applications powered by language models.",
+    "category": "AI Automation",
+    "company": "LangChain",
+    "website": "https://langchain.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "LLM chains",
+      "Agents",
+      "RAG",
+      "Memory"
+    ],
+    "rating": 4.5,
+    "popularity_score": 88,
+    "tags": [
+      "framework",
+      "agents",
+      "rag"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "description": "Data framework for connecting LLMs to external data sources.",
+    "category": "AI Automation",
+    "company": "LlamaIndex",
+    "website": "https://llamaindex.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Data connectors",
+      "RAG",
+      "Indexing",
+      "Agents"
+    ],
+    "rating": 4.4,
+    "popularity_score": 82,
+    "tags": [
+      "data",
+      "rag",
+      "framework"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "semantic-kernel",
+    "name": "Semantic Kernel",
+    "description": "Microsoft's SDK for integrating LLMs into applications.",
+    "category": "AI Automation",
+    "company": "Microsoft",
+    "website": "https://learn.microsoft.com/semantic-kernel",
+    "pricing": {
+      "model": "free",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "free"
+    },
+    "features": [
+      "Open source",
+      "Plugins",
+      "Memory",
+      "Planners"
+    ],
+    "rating": 4.3,
+    "popularity_score": 75,
+    "tags": [
+      "framework",
+      "microsoft",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "crewai",
+    "name": "CrewAI",
+    "description": "Framework for orchestrating role-playing AI agents.",
+    "category": "AI Automation",
+    "company": "CrewAI",
+    "website": "https://crewai.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Multi-agent",
+      "Role-based",
+      "Tasks",
+      "Tools"
+    ],
+    "rating": 4.4,
+    "popularity_score": 76,
+    "tags": [
+      "agents",
+      "multi-agent",
+      "framework"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "autogen",
+    "name": "AutoGen",
+    "description": "Microsoft's framework for building multi-agent conversational systems.",
+    "category": "AI Automation",
+    "company": "Microsoft",
+    "website": "https://microsoft.github.io/autogen",
+    "pricing": {
+      "model": "free",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "free"
+    },
+    "features": [
+      "Multi-agent",
+      "Conversations",
+      "Code execution",
+      "Human feedback"
+    ],
+    "rating": 4.3,
+    "popularity_score": 80,
+    "tags": [
+      "agents",
+      "microsoft",
+      "open-source"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "pinecone",
+    "name": "Pinecone",
+    "description": "Vector database for building AI applications with semantic search.",
+    "category": "AI Data Analysis",
+    "company": "Pinecone",
+    "website": "https://pinecone.io",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Vector search",
+      "Serverless",
+      "Metadata filtering",
+      "Namespaces"
+    ],
+    "rating": 4.6,
+    "popularity_score": 87,
+    "tags": [
+      "vector",
+      "database",
+      "search"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "weaviate",
+    "name": "Weaviate",
+    "description": "Open-source vector database with built-in ML models.",
+    "category": "AI Data Analysis",
+    "company": "Weaviate",
+    "website": "https://weaviate.io",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Open source",
+      "Hybrid search",
+      "GraphQL",
+      "Modules"
+    ],
+    "rating": 4.5,
+    "popularity_score": 80,
+    "tags": [
+      "vector",
+      "database",
+      "open-source"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "qdrant",
+    "name": "Qdrant",
+    "description": "High-performance vector similarity search engine.",
+    "category": "AI Data Analysis",
+    "company": "Qdrant",
+    "website": "https://qdrant.tech",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Fast search",
+      "Filtering",
+      "Rust",
+      "Cloud & self-hosted"
+    ],
+    "rating": 4.5,
+    "popularity_score": 78,
+    "tags": [
+      "vector",
+      "search",
+      "performance"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "chroma",
+    "name": "Chroma",
+    "description": "Open-source embedding database for AI applications.",
+    "category": "AI Data Analysis",
+    "company": "Chroma",
+    "website": "https://trychroma.com",
+    "pricing": {
+      "model": "free",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "free"
+    },
+    "features": [
+      "Open source",
+      "Simple API",
+      "Python/JS",
+      "Self-hosted"
+    ],
+    "rating": 4.4,
+    "popularity_score": 82,
+    "tags": [
+      "embeddings",
+      "database",
+      "open-source"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "helicone",
+    "name": "Helicone",
+    "description": "Observability platform for LLM applications with analytics and monitoring.",
+    "category": "AI Automation",
+    "company": "Helicone",
+    "website": "https://helicone.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "LLM monitoring",
+      "Cost tracking",
+      "Caching",
+      "Prompts"
+    ],
+    "rating": 4.4,
+    "popularity_score": 72,
+    "tags": [
+      "observability",
+      "monitoring",
+      "llm"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "promptlayer",
+    "name": "PromptLayer",
+    "description": "Platform for prompt engineering, versioning, and LLM observability.",
+    "category": "AI Automation",
+    "company": "PromptLayer",
+    "website": "https://promptlayer.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 19,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Prompt versioning",
+      "Analytics",
+      "Collaboration",
+      "A/B testing"
+    ],
+    "rating": 4.3,
+    "popularity_score": 68,
+    "tags": [
+      "prompts",
+      "versioning",
+      "observability"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "gamma",
+    "name": "Gamma",
+    "description": "AI-powered presentation and document creation tool.",
+    "category": "AI Productivity",
+    "company": "Gamma",
+    "website": "https://gamma.app",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "AI presentations",
+      "Documents",
+      "Websites",
+      "Templates"
+    ],
+    "rating": 4.5,
+    "popularity_score": 83,
+    "tags": [
+      "presentations",
+      "documents",
+      "design"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "mem",
+    "name": "Mem",
+    "description": "AI-powered note-taking app that organizes knowledge automatically.",
+    "category": "AI Productivity",
+    "company": "Mem",
+    "website": "https://mem.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 15,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Auto-organization",
+      "AI chat",
+      "Meetings",
+      "Smart search"
+    ],
+    "rating": 4.3,
+    "popularity_score": 72,
+    "tags": [
+      "notes",
+      "knowledge",
+      "organization"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "reflect",
+    "name": "Reflect",
+    "description": "AI note-taking app with backlinks and knowledge graph.",
+    "category": "AI Productivity",
+    "company": "Reflect",
+    "website": "https://reflect.app",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 10,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Backlinks",
+      "AI assistant",
+      "End-to-end encryption",
+      "iOS app"
+    ],
+    "rating": 4.4,
+    "popularity_score": 70,
+    "tags": [
+      "notes",
+      "backlinks",
+      "privacy"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "taskade",
+    "name": "Taskade",
+    "description": "AI-powered productivity platform for tasks, notes, and collaboration.",
+    "category": "AI Productivity",
+    "company": "Taskade",
+    "website": "https://taskade.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 8,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "AI tasks",
+      "Mind maps",
+      "Chat",
+      "Templates"
+    ],
+    "rating": 4.3,
+    "popularity_score": 74,
+    "tags": [
+      "tasks",
+      "collaboration",
+      "ai"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "reclaim",
+    "name": "Reclaim.ai",
+    "description": "AI scheduling assistant that automatically plans your calendar.",
+    "category": "AI Productivity",
+    "company": "Reclaim.ai",
+    "website": "https://reclaim.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 8,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Smart scheduling",
+      "Habits",
+      "Tasks",
+      "Calendar sync"
+    ],
+    "rating": 4.5,
+    "popularity_score": 77,
+    "tags": [
+      "calendar",
+      "scheduling",
+      "automation"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "motion",
+    "name": "Motion",
+    "description": "AI calendar and project management that auto-schedules your work.",
+    "category": "AI Productivity",
+    "company": "Motion",
+    "website": "https://usemotion.com",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 19,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Auto-scheduling",
+      "Projects",
+      "Meetings",
+      "Prioritization"
+    ],
+    "rating": 4.4,
+    "popularity_score": 79,
+    "tags": [
+      "calendar",
+      "projects",
+      "scheduling"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "hyperwrite",
+    "name": "HyperWrite",
+    "description": "AI writing assistant with autocomplete and content generation.",
+    "category": "AI Writing",
+    "company": "HyperWrite",
+    "website": "https://hyperwrite.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 19.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Autocomplete",
+      "Research",
+      "Summarizer",
+      "Browser extension"
+    ],
+    "rating": 4.2,
+    "popularity_score": 68,
+    "tags": [
+      "writing",
+      "autocomplete",
+      "research"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "jenni",
+    "name": "Jenni AI",
+    "description": "AI writing assistant designed for academic and research writing.",
+    "category": "AI Writing",
+    "company": "Jenni AI",
+    "website": "https://jenni.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 20,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Academic writing",
+      "Citations",
+      "Paraphrasing",
+      "Research"
+    ],
+    "rating": 4.3,
+    "popularity_score": 72,
+    "tags": [
+      "academic",
+      "writing",
+      "research"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "rytr",
+    "name": "Rytr",
+    "description": "AI writing assistant for creating content in multiple languages and tones.",
+    "category": "AI Writing",
+    "company": "Rytr",
+    "website": "https://rytr.me",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 9,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "30+ languages",
+      "40+ templates",
+      "Tone selection",
+      "SEO analyzer"
+    ],
+    "rating": 4.2,
+    "popularity_score": 71,
+    "tags": [
+      "writing",
+      "multilingual",
+      "affordable"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "writer",
+    "name": "Writer",
+    "description": "Enterprise AI writing platform with brand consistency and governance.",
+    "category": "AI Writing",
+    "company": "Writer",
+    "website": "https://writer.com",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Brand voice",
+      "Style guide",
+      "Security",
+      "Integrations"
+    ],
+    "rating": 4.5,
+    "popularity_score": 78,
+    "tags": [
+      "enterprise",
+      "brand",
+      "governance"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "sudowrite",
+    "name": "Sudowrite",
+    "description": "AI writing tool specifically designed for fiction writers.",
+    "category": "AI Writing",
+    "company": "Sudowrite",
+    "website": "https://sudowrite.com",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 19,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Story engine",
+      "Describe",
+      "Brainstorm",
+      "Rewrite"
+    ],
+    "rating": 4.4,
+    "popularity_score": 69,
+    "tags": [
+      "fiction",
+      "creative",
+      "writing"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "salesforce-einstein",
+    "name": "Salesforce Einstein",
+    "description": "AI layer for Salesforce CRM with predictions and automation.",
+    "category": "AI Sales",
+    "company": "Salesforce",
+    "website": "https://salesforce.com/einstein",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Lead scoring",
+      "Forecasting",
+      "Automation",
+      "Analytics"
+    ],
+    "rating": 4.4,
+    "popularity_score": 82,
+    "tags": [
+      "crm",
+      "sales",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "outreach",
+    "name": "Outreach",
+    "description": "Sales execution platform with AI-powered engagement.",
+    "category": "AI Sales",
+    "company": "Outreach",
+    "website": "https://outreach.io",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Sequences",
+      "AI insights",
+      "Forecasting",
+      "Coaching"
+    ],
+    "rating": 4.3,
+    "popularity_score": 79,
+    "tags": [
+      "sales",
+      "engagement",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "salesloft",
+    "name": "SalesLoft",
+    "description": "Revenue workflow platform with AI-driven sales engagement.",
+    "category": "AI Sales",
+    "company": "SalesLoft",
+    "website": "https://salesloft.com",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Cadences",
+      "AI coaching",
+      "Analytics",
+      "Integrations"
+    ],
+    "rating": 4.3,
+    "popularity_score": 77,
+    "tags": [
+      "sales",
+      "workflow",
+      "enterprise"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "seamless-ai",
+    "name": "Seamless.AI",
+    "description": "AI-powered sales prospecting platform for finding leads.",
+    "category": "AI Sales",
+    "company": "Seamless.AI",
+    "website": "https://seamless.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 147,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Lead finder",
+      "Contact data",
+      "Chrome extension",
+      "CRM sync"
+    ],
+    "rating": 4.1,
+    "popularity_score": 73,
+    "tags": [
+      "leads",
+      "prospecting",
+      "data"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "clearbit",
+    "name": "Clearbit",
+    "description": "B2B data enrichment platform powered by AI.",
+    "category": "AI Sales",
+    "company": "Clearbit",
+    "website": "https://clearbit.com",
+    "pricing": {
+      "model": "usage-based",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "usage"
+    },
+    "features": [
+      "Enrichment",
+      "Reveal",
+      "Forms",
+      "Advertising"
+    ],
+    "rating": 4.5,
+    "popularity_score": 83,
+    "tags": [
+      "data",
+      "enrichment",
+      "b2b"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "zoominfo",
+    "name": "ZoomInfo",
+    "description": "B2B database platform with AI-powered sales intelligence.",
+    "category": "AI Sales",
+    "company": "ZoomInfo",
+    "website": "https://zoominfo.com",
+    "pricing": {
+      "model": "enterprise",
+      "free_tier": false,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "custom"
+    },
+    "features": [
+      "Contact database",
+      "Intent data",
+      "Engage",
+      "Analytics"
+    ],
+    "rating": 4.3,
+    "popularity_score": 85,
+    "tags": [
+      "database",
+      "sales",
+      "intelligence"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "x-ai-grok",
+    "name": "Grok",
+    "description": "xAI's conversational AI with real-time access to X/Twitter data.",
+    "category": "LLM & Chatbots",
+    "company": "xAI",
+    "website": "https://x.ai",
+    "pricing": {
+      "model": "subscription",
+      "free_tier": false,
+      "starting_price": 16,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Real-time data",
+      "X integration",
+      "Humor mode",
+      "Image understanding"
+    ],
+    "rating": 4.3,
+    "popularity_score": 78,
+    "tags": [
+      "llm",
+      "twitter",
+      "realtime"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "character-ai",
+    "name": "Character.AI",
+    "description": "Platform for creating and chatting with AI characters and personas.",
+    "category": "AI Chatbots",
+    "company": "Character.AI",
+    "website": "https://character.ai",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Custom characters",
+      "Voice calls",
+      "Group chats",
+      "Creation tools"
+    ],
+    "rating": 4.4,
+    "popularity_score": 88,
+    "tags": [
+      "characters",
+      "chat",
+      "entertainment"
+    ],
+    "api_available": false
+  },
+  {
+    "slug": "poe",
+    "name": "Poe",
+    "description": "Platform to access multiple AI chatbots including GPT-4 and Claude.",
+    "category": "LLM & Chatbots",
+    "company": "Quora",
+    "website": "https://poe.com",
+    "pricing": {
+      "model": "freemium",
+      "free_tier": true,
+      "starting_price": 19.99,
+      "currency": "USD",
+      "billing_cycle": "monthly"
+    },
+    "features": [
+      "Multiple bots",
+      "Custom bots",
+      "API access",
+      "Fast responses"
+    ],
+    "rating": 4.3,
+    "popularity_score": 80,
+    "tags": [
+      "chatbots",
+      "multi-model",
+      "platform"
+    ],
+    "api_available": true
+  },
+  {
+    "slug": "pi",
+    "name": "Pi",
+    "description": "Personal AI assistant designed for empathetic conversations.",
+    "category": "LLM & Chatbots",
+    "company": "Inflection AI",
+    "website": "https://pi.ai",
+    "pricing": {
+      "model": "free",
+      "free_tier": true,
+      "starting_price": 0,
+      "currency": "USD",
+      "billing_cycle": "free"
+    },
+    "features": [
+      "Empathetic",
+      "Voice",
+      "Mobile app",
+      "Free"
+    ],
+    "rating": 4.2,
+    "popularity_score": 72,
+    "tags": [
+      "personal",
+      "empathetic",
+      "free"
+    ],
+    "api_available": false
   }
 ]
